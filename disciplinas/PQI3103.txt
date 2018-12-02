@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI3103 - Conservação de Massa e Energia
+
+Em ingles 
+         Mass and Energy Conservation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos básicos da análise de um processo químico, desde a análise dos fenômenos envolvidos, desenvolvimento de um modelo matemático simples, até a verificação de sua aplicabilidade. Analisar as fontes de modelos matemáticos para aplicação em balanços materiais e energéticos. Utilizar e analisar o uso de equações empíricas. Apresentar a análise de graus de liberdade em processos químicos.
+
+ Voce pode faltar: 7

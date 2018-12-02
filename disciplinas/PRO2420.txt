@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Produção
+
+Disciplina: PRO2420 - Projeto da Fábrica
+
+Em ingles 
+         Plant Design 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos e metodologias básicas para concepção e projeto de fábricas, com ênfase no projeto e organização dos processos de produção, movimentação interna e armazenagem, visando o adequado aproveitamento do espaço físico e a racionalidade dos fluxos de materiais e informações no ambiente interno das fábricas. Capacitar para utilização da simulação computacional na concepção e avaliação de alternativas para o projeto de sistemas de produção.
+
+ Voce pode faltar: 7

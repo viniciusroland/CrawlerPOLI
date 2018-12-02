@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3556 - Lógica Computacional
+
+Em ingles 
+         Computational Logic 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar uma introdução aos fundamentos matemáticos da Ciência da Computação, com ênfase em linguagens, reconhecedores (autômatos) e geradores (gramáticas). Enfatiza-se o estudo de dois tipos de questões no nível teórico: (I) Quais computações podem ser feitas em um computador? (II) Quão eficientemente podem ser realizadas?
+
+ Voce pode faltar: 7

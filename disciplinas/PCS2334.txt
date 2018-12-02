@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2334 - Introdução a Redes de Computadores
+
+Em ingles 
+         Introduction to Computer Networks 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar ao aluno os conceitos básicos de teleprocessamento e redes de computadores. São apresentadas as arquiteturas, tecnologias e conceitos de redes locais e de longa distância.
+
+ Voce pode faltar: 7

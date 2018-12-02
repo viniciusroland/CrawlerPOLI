@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2603 - Fundamentos do Método dos Elementos Finitos Linear Aplicados a Sistemas Mecânicos
+
+Em ingles 
+         Basics of Linear Finite Elements Method Applied to Mechanical Systems 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        À título de especialização, objetiva-se instruir o aluno nos aspectos teóricos/práticos relacionados à analise estrutural de componentes de máquinas, esclarecendo os conceitos ligados ao Método dos Elementos Finitos como ferramenta de cálculo matricial e dimensionamento por computador. Neste contexto, será realizada iniciação ao uso de programas comumente empregados na industria e em escritórios de projeto, tais como: ALGOR, ANSYS, SAP2000, NASTRAN/PATRAN, ABAQUS e outros.
+
+ Voce pode faltar: 3

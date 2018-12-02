@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3413 - Engenharia de Software e Banco de Dados
+
+Em ingles 
+         Sofware Engineering and Database 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os conceitos de Engenharia de Software e de Banco de Dados, em um ambiente cooperativo de projeto. Os conceitos, modelos, processos, técnicas e ferramentas da Engenharia de Software e do Banco de Dados são experimentados através de exercícios.
+
+ Voce pode faltar: 7

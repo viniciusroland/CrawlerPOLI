@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3451 - Processamento Estatístico e Adaptativo
+
+Em ingles 
+         Statistical and Adaptive Processing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudar conceitos básicos da Teoria da Estimação assim como da sua implementação por meio de filtragem de Kalman, filtragem adaptativa e, mais amplamente, otimização estocástica e machine learning.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3312 - Laboratório de Controle
+
+Em ingles 
+         Control Laboratory 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Realizar experimentos relativos a identificação de sistemas e projeto de sistemas de controle.
+
+ Voce pode faltar: 5

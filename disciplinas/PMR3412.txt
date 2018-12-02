@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR3412 - Redes Industriais
+
+Em ingles 
+         Industrial Networks 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo é discutir os principais aspectos de redes de computadores, quando utilizadas internamente à um equipamento, ou no contexto de automação fabril ou ainda na integração da manufatura.
+
+ Voce pode faltar: 3

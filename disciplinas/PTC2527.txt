@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2527 - Laboratório de Comunicações: Ante-projeto de Formatura
+
+Em ingles 
+         Communications Laboratory: Graduation Ante-Project 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Esta disciplina antecede a disciplina de Projeto de Formatura (PTC2528), com a finalidade de permitir aos alunos definirem o escopo dos seus projetos. No decorrer do curso são realizadas reuniões periódicas com os alunos e respectivos orientadores para acompanhamento das definições dos projetos, cronogramas e avaliação de recursos necessários. São apresentadas aulas expositivas referentes a técnicas de projeto, desenvolvimento e montagem de sistemas eletrônicos, conceitos de confiabilidade e características de componentes, apresentação de ferramentas de projeto (CAD) para captura de esquemas, confecção de circuitos impressos, configuração de Lógica Programável, além de  fundamentos de projeto de circuitos integrados de aplicação específica.
+
+ Voce pode faltar: 7

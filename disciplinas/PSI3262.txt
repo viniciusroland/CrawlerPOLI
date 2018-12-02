@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3262 - Fundamentos de Circuitos Eletrônicos Digitais e Analógicos
+
+Em ingles 
+         Fundamentals of Digital and Analog Electronic Circuits 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Este curso visa apresentar os principais conceitos de circuitos eletrônicos e elétricos principalmente para alunos de graduação em engenharia que não estejam cursando engenharia elétrica.
+
+ Voce pode faltar: 7

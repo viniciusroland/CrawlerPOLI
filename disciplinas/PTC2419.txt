@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2419 - Controle Digital
+
+Em ingles 
+         Digital Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir as técnicas digitais e sua utilização em sistemas de controle.
+
+ Voce pode faltar: 7

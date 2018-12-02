@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3314 - Dinâmica de Sistemas I
+
+Em ingles 
+         Systems Dynamics I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos de dinâmica de sistemas, enfatizados problemas relacionados à oscilação e vibração de sistemas mecânicos, navais e oceânicos.Capacitar o aluno a modelar problemas desta natureza, analisando-os com técnicas analíticas, numéricas e/ou experimentais apropriadas.
+
+ Voce pode faltar: 7

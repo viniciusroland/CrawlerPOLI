@@ -1,0 +1,32 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3529 - Projeto Estrutural Assistido por Computador
+
+Em ingles 
+         Design of Structures Computer Aided 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        2
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Conhecimentos a serem assimilados
+Análise Estrutural, Métodos Computacionais para Análise de Estruturas, Estruturas de Concreto e Utilização de ferramentas computacionais de aplicação em Engenharia.
+Habilidades a serem desenvolvidas
+Integração dos diversos modelos matemáticos na Mecânica das Estruturas; Desenvolver a sensibilidade em analisar o comportamento de uma estrutura (edificação ou ponte); Associar os modelos estruturais às estruturas reais na Engenharia; Compreender o método de cálculo estrutural utilizados computacionalmente; Ênfase à natureza hierárquica dos modelos; Análises estruturais: lineares e não-lineares, estáticas e dinâmicas; Aplicar conhecimentos adquiridos em outras disciplinas; Trabalhar em equipe; Comunicar-se.
+Valores e atitudes a serem incorporados
+Conhecer o comportamento de estruturas em função dos materiais e formas; Consciência do rigor científico no cálculo e dimensionamento de estruturas; Responsabilidade pela segurança de estruturas projetadas ou construídas; Análise crítica se os objetivos da modelagem foram atingidos.
+
+ Voce pode faltar: 11

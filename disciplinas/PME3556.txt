@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3556 - Dinâmica dos Fluidos Computacional
+
+Em ingles 
+         Computational Fluid Dynamics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O curso tem como objetivo propiciar ao aluno um aprendizado de análise numérica da estabilidade, convergência e precisão dos métodos computacionais modernos utilizados para a simulação de problemas encontrados em dinâmica dos fluidos e transferência de calor. As aulas teóricas e práticas se concentram fundamentalmente na análise de diferentes algoritmos e técnicas de modelagem. Ênfase é colocada na compreensão da física de cada problema apresentado de forma a permitir uma análise crítica dos diferentes métodos e os respectivos resultados.
+
+ Voce pode faltar: 7

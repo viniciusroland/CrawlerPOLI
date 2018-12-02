@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3456 - Processamento de Sinais Biomédicos
+
+Em ingles 
+         Biomedical Signals Processing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir conceitos básicos de processamento de sinais de origem biológica. 
+
+ Voce pode faltar: 7

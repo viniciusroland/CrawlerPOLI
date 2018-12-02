@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2035 - Laboratório de Redes de Computadores
+
+Em ingles 
+         Computer Networks Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Esta disciplina tem como objetivo desenvolver prática em projetos envolvendo programação em redes; na utilização de equipamentos de rede, tais como: roteadores, hubs e switches; e na instalação e configuração de sistemas operacionais de rede e serviços de rede.
+
+ Voce pode faltar: 7

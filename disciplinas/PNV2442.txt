@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV2442 - Métodos Computacionais para Engenharia II
+
+Em ingles 
+         Computational Methods for Engineering II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O aprendiz familiarizar-se com métodos numéricos utilizados na solução de problemas do contínuo em engenharia.
+
+ Voce pode faltar: 7

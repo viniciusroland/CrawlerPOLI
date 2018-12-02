@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3213 - Eletromagnetismo
+
+Em ingles 
+         Electromagnetics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Compreensão de fenômenos eletromagnéticos e suas aplicações em problemas de engenharia elétrica. Pressupõe-se o conhecimento básico de eletromagnetismo visto no curso de Física; os conceitos serão aqui rapidamente revistos, visando uma abordagem tecnológica.
+
+ Voce pode faltar: 7

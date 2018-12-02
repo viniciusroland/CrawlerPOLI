@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2309 - Engenharia de Software I
+
+Em ingles 
+         Software Engineering I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir ao aluno os conceitos de metodologia de desenvolvimento de software (análise, projeto, programação e testes). Apresentar os conceitos da técnica estruturada e da técnica orientada a objetos e exercitar a modelagem de sistemas de software. Explorar aspectos de manutenção de sistemas.
+
+ Voce pode faltar: 7

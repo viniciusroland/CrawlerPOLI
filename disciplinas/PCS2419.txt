@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2419 - Laboratório de Engenharia de Software I
+
+Em ingles 
+         Software Engineering Laboratory I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Exercitar os conceitos de engenharia de software, vistos nas disciplinas correlatas, através do desenvolvimento controlado de um sistema de software, com a geração dos documentos correspondentes.
+
+ Voce pode faltar: 7

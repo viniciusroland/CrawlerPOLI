@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3560 - Engenharia de Energia Hidroelétrica
+
+Em ingles 
+         Hydroelectric Energy Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo da disciplina que os alunos aprendam conceitos básicos de usinas hidroelétricas que permitam entender os princípios de funcionamento, seus componentes e estruturas básicas, tipos de centrais e como projetar um sistema em função da hidrologia e como é feita a integração com o sistema de energia e sua manutenção e operação. Também serão desenvolvidos conceitos de usinas baseadas em energia hidro cinética em rios e no mar.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2302 - Laboratório de Fundamentos de Engenharia de Computação
+
+Em ingles 
+         Laboratory of Foundations of Computing Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Complementar a formação básica do estudante de Engenharia de Computação, proporcionando-lhe um ambiente prático para a experimentação dos conceitos adquiridos em outras disciplinas teóricas e conceituais, através da realização de todos os experimentos no enfoque da programação orientada a objeto.
+
+ Voce pode faltar: 7

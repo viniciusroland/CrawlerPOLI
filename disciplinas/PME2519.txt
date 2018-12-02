@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2519 - Fontes, Conversão, Conservação de Energia
+
+Em ingles 
+         Energy Resources, Conversion and Conservation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fontes renováveis e não renováveis de energia, sistemas de conversão de energia: introdução, novos sistemas, células de combustível, MHD & Solar; Conversão de combustível fóssil sólido em combustíveis gasosos e líquidos. Fenômenos Termelétricos . Eficiência e efetividade de processos. Otimização. Redução de perdas. Co-geração.
+
+ Voce pode faltar: 7

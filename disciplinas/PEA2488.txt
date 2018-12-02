@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2488 - Eletrônica de Potência II
+
+Em ingles 
+         Power Electronics II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O aluno deverá aprender os princípios da conversão C.A./C.C. (corrente alternada/corrente contínua), C.C./C.A., C.C./C.C. e C.A./C.A., utilizando chaves eletrônicas auto-comutadas, incluindo a análise, projeto e aplicações das topologias mais usadas.
+
+ Voce pode faltar: 7

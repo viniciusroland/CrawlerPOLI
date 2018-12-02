@@ -1,0 +1,29 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Produção
+
+Disciplina: PRO3380 - Servitização e Sistemas Produto-Serviço
+
+Em ingles 
+         Servitization and Product-service Systems 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        2
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Prover conhecimento sobre conceitos e implicações da servitização e sistemas produto-serviço nas empresas.
+Estudar metodologias de implementação, casos de desenvolvimento e implementação de sistemas produto-serviço.
+Capacitar os alunos a analisar estudos de caso e aplicar metodologia de Sistemas produto-serviço em casos reais reportados na literatura.
+
+ Voce pode faltar: 11

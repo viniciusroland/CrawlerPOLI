@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3559 - Projeto Aerodinâmico de Aeronaves
+
+Em ingles 
+         Aerodynamic Design of Airplanes 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O curso tem por objetivo dar ao aluno uma formação sólida em aerodinâmica e projeto aerodinâmico. A introdução à aeronaútica será apresentada para que o aluno se familiarize com a engenharia aeronáutica. Conceitos fundamentais de aerodinâmica como geração de sustentação, downwash, camada limite e onda de choque serão abordados. Aspectos basilares do projeto aerodinâmico serão desenvolvidos onde podem ser citados projeto de perfil e hipersustentadores. A abordagem do projeto aerodinâmico será sempre desenvolvida no sentido de dar ao aluno uma visão crítica e realística do projeto. Para tanto, a interdisciplinaridade do projeto será exercitada durante todo o curso. Os objetivos do curso são estabelecidos no sentido de dar ao aluno habilidades para que ele possa atuar em projeto aerodinâmico de aeronaves e áreas de aeronáutica interrelacionadas como mecânica de vôo, cargas, estruturas e performance
+
+ Voce pode faltar: 7

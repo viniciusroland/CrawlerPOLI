@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3403 - Laboratório de  Vibrações e  Controle
+
+Em ingles 
+         Vibration and Control Laboratory 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Exercitar a solução de problemas práticos de vibração e controle. 
+
+ Voce pode faltar: 7

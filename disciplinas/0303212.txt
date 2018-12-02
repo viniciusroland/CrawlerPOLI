@@ -1,0 +1,33 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Disciplinas Interdepartamentais da Escola Politécnica
+
+Disciplina: 0303212 - Criação de Negócios Tecnológicos
+
+Em ingles 
+         Technology Based Business Development 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        1. Conceituar o processo de estruturação de empreendimentos de base tecnológica visando explorar as oportunidades relacionadas com a resolução de problemas complexos de engenharia.
+2. Conceituar e aplicar as principais abordagens da estratégia, de marketing, de design thinking, do canvas e da startup enxuta.
+3. Apresentar e aplicar ferramentas e métodos para a prototipação digital e para a prototipação rápida.
+4. Apresentar e aplicar métodos, técnicas e ferramentas para o desenvolvimento integrado de produtos e serviços.
+5. Apresentar e aplicar métodos, técnicas e ferramentas para a estruturação de empreendimentos de base tecnológica.
+6. Promover o trabalho em equipes multidisciplinares de maneira efetiva.
+7. Promover o alinhamento dos empreendimentos resultantes com aceleradoras e incubadoras.
+
+ Voce pode faltar: 11

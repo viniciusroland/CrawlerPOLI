@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3350 - Elementos de Máquinas I
+
+Em ingles 
+         Machine Elements I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aplicar os conhecimentos das disciplinas de mecânica dos sólidos, mecânica geral, processos de fabricação ao projeto, seleção e desenvolvimento de elementos de máquinas, bem como sua integração à máquinas e mecanismos.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2719 - Processamento Mecânico de Polímeros: Teoria e Práticas
+
+Em ingles 
+         Mechanical Processing of Polymers: Practices and Theory 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Desenvolver os estudos teóricos e práticos relacionados com os mais importantes processamentos   mecânicos de polímeros através dos fundamentos de teorias reológicas relacionadas com os materiais  contínuos não-newtonianos. Desenvolver simulações computacionais através de métodos da mecânica dos fluídos e pelo método dos elementos finitos não-lineares. Estudar os processamentos clássicos  volumétricos da injeção em matriz, extrusão, sopro, modelagem, calandragem e reação.
+
+ Voce pode faltar: 3

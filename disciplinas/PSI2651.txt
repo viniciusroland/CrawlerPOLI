@@ -1,0 +1,26 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2651 - Processamento, Análise e Síntese de Imagens I
+
+Em ingles 
+         Image Processing, Analysis and Synthesis I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+ObjetivoNone
+
+ Voce pode faltar: 7

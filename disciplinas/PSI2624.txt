@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2624 - Laboratório de Caracterização de Dispositivos em Microeletrônica
+
+Em ingles 
+         Laboratory of Microelectronic Devices Characterization 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Propiciar aos alunos experiência teórica e prática com dispositivos em microeletrônica através de medidas de suas características elétricas e da extração de seus principais parâmetros de modelos teóricos, particularmente dos modelos SPICE.
+
+ Voce pode faltar: 7

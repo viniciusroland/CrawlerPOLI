@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI3352 - Introdução à Transferência de Calor
+
+Em ingles 
+         Introduction to Heat Transfer 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os conceitos fundamentais da Transferência de Calor, enfatizando a aplicação em engenharia de Petróleo. Após o curso, o aluno deve ser capaz de usar os conhecimentos básicos e habilidades adquiridas na análise e concepção em sistemas na prática de engenharia.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2303 - Engenharia  Eletromagnética
+
+Em ingles 
+         Electromagnetic Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        -  Dotar os alunos dos conceitos fundamentais e das  ferramentas matemáticas da Teoria Eletromagnética, com ênfase a aplicações na engenharia de altas correntes e tensões em baixa freqüência, bem como aspectos relacionados a interferência eletromagnética e efeitos biológicos do campo eletromagnético, típicos da Engenharia de Energia e Automação Elétricas.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3413 - Hidrodinâmica II
+
+Em ingles 
+         Hydrodynamics II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Dar continuidade ao conteúdo apresentado na disciplina Hidrodinâmica I (PNV3323), com a incursão em métodos numéricos comumente empregados para estudos de resistência ao avanço e de propulsores navais. Apresentar os fundamentos teóricos e as principais técnicas para o estudo de Comportamento no Mar, dando ênfase aos sistemas oceânicos (sem velocidade de avanço). Introduzir métodos aproximados de solução através de um estudo-de-caso e estender os conceitos teóricos para o tratamento estatístico do problema em ondas irregulares.  
+
+ Voce pode faltar: 7

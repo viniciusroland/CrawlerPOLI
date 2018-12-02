@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2440 - Programação para Automação
+
+Em ingles 
+         Programming for Automation Systems 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Aprendizado de técnicas de documentação de programas e manipulação de dados, técnicas de organização de programas para sistemas embarcados e de tempo real, e técnicas de projeto de programas de grande porte.
+
+ Voce pode faltar: 3

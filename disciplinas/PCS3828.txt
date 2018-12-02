@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3828 - Análise de Desempenho de Sistemas Computacionais
+
+Em ingles 
+         Computer Systems Performance Analysis 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar e realizar a análise de desempenho de sistemas computacionais e de comunicação, com o objetivo de entender, melhorar e planejar a sua capacidade para alcançar métricas de desempenho requeridas. Para isso são construídos modelos dos sistemas utilizando técnicas de Cadeias de Markov, teoria de filas, redes de Petri e simulação de sistemas de eventos discretos.
+
+ Voce pode faltar: 7

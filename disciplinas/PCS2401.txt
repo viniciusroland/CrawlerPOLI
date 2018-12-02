@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2401 - Modelagem e Simulação de Sistemas Computacionais
+
+Em ingles 
+         Modeling and Simulation of Computer Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar o processo de modelagem e simulação aplicados à engenharia sendo dada ênfase aos aspectos práticos da modelagem e simulação de sistemas de computação com o objetivo de análise do comportamento e desempenho do sistema. São apresentados os conceitos de teoria de filas e de técnicas de simulação de sistemas de eventos discretos.  São feitos estudos de casos de modelagem de sistemas utilizando ferramentas analíticas e de simulação.
+
+ Voce pode faltar: 7

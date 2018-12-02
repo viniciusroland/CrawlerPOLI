@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3413 - Automação de Sistemas Industriais
+
+Em ingles 
+         Industrial Systems Automation 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo desta disciplina é fornecer ao aluno uma formação geral do desenvolvimento de sistemas de automação industrial, que envolvem áreas tecnológicas de sensores, controladores programáveis, sistemas supervisórios e redes de comunicação. Além disso, esta disciplina pretende abordar o problema dos sistemas de eventos discretos, que consiste na análise e síntese de aplicativos capazes de compatibilizar recursos compartilhados e eliminar conflitos através da modelagem das redes de Petri. Para tanto, são desenvolvidas simulações computacionais e os resultados são transpostos para programas que são baseados nas linguagens definidas na norma IEC 61131-3.
+
+ Voce pode faltar: 3

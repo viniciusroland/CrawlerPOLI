@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2514 - Controle de Processos Industriais
+
+Em ingles 
+         Industrial Process Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Utilizar as técnicas de modelagem no projeto de sistemas industriais de controle.
+
+ Voce pode faltar: 7

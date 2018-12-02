@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3425 - Projeto de Sistemas Oceânicos
+
+Em ingles 
+         Design of Ocean Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        4
+
+Carga Horaria Total 
+       		180 h 
+ 			
+			 
+
+Objetivo 
+        Esta disciplina tem por objetivo o desenvolvimento do projeto de um sistema oceânico de produção/perfuração (plataforma semi-submersível) através da integração de atributos e funcionalidades que caracterizam os desempenhos técnico (estabilidade, comportamento em ondas, amarração, etc.), econômico e operacional do sistema.   
+
+ Voce pode faltar: 1

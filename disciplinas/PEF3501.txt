@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3501 - Concepção, Projeto e Métodos Construtivos de Edifícios
+
+Em ingles 
+         Conception, Design and Construction Methods of Buildings 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		75 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar as etapas de projeto (Lançamento da Estrutura, Modelo Estrutural, Ações, Solicitações, Verificação e Otimização). Apresentação dos sistemas estruturais usuais de edifícios, evidenciando em cada caso a interação entre Arquitetura, Estrutura, Métodos Construtivos, Fundações e Escavações e Instalações Gerais. Definição e análise dos modelos estruturais a serem adotados em cada caso, considerando o caminhamento das cargas verticais, o caminhamento das cargas horizontais e a garantia da estabilidade global. Desenvolver um projeto estrutural contemplando todas as suas etapas e interações.
+
+ Voce pode faltar: 9

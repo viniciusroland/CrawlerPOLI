@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3643 - Laboratório de Engenharia de Software I
+
+Em ingles 
+         Software Engineering Laboratory I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Aplicação dos conceitos de engenharia de software, através do desenvolvimento controlado de um sistema de software, desde a análise de requisitos até a aceitação do software, com aplicação de técnicas de verificação e validação e geração dos documentos relevantes.
+
+ Voce pode faltar: 11

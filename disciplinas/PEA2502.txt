@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2502 - Laboratório de Eletrônica de Potência
+
+Em ingles 
+         Power Electronics Laboratory 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Noções práticas (laboratório) dos conceitos de eletrônica de potência e conversores estáticos abordados nas disciplinas Eletrônica de Potência I e II.
+
+ Voce pode faltar: 3

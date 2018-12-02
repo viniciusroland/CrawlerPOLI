@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3360 - Introdução a Redes e Comunicações
+
+Em ingles 
+         Introduction to Networks and Communications 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos fundamentais de Telecomunicações para todos os alunos de Engenharia Elétrica, fornecendo a base para que usem as Telecomunicações como ferramenta importante na solução de problemas em suas respectivas especialidades.
+
+ Voce pode faltar: 7

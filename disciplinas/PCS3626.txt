@@ -1,0 +1,26 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3626 - Laboratório de Sistemas de Programação
+
+Em ingles 
+         Systems Programming Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+ObjetivoNone
+
+ Voce pode faltar: 11

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Construção Civil
+
+Disciplina: PCC3525 - Energia Solar em Edifícios
+
+Em ingles 
+         Buildings Solar Energy 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Capacitar o aluno a avaliar a demanda energética de edifícios e verificar a viabilidade técnica para micro geração local a partir da energia solar. O ferramental obtido na disciplina Física das Construções é aplicado para o estudo do aproveitamento da energia solar e, a partir dos conhecimentos da disciplina Sistemas Prediais, os sistemas de água quente e instalações elétricas de baixa tensão são estudados para o dimensionamento e análise de compatibilidade dos sistemas de aquecimento solar de água e geração fotovoltaica. Os componentes, configurações e parâmetros de dimensionamento são apresentados e posteriormente aplicados pelos alunos no trabalho prático. 
+
+ Voce pode faltar: 7

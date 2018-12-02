@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI2995 - Introdução à Mineração
+
+Em ingles 
+         Introductory Mining 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir alguns conceitos básicos relativos a um projeto de lavra e tratamento de minérios.
+
+ Voce pode faltar: 5

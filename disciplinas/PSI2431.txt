@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2431 - Propagação, Antenas e Microondas
+
+Em ingles 
+         Propagation, Antennas and Microwaves 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Oferecer ao aluno noções de propagação de ondas eletromagnéticas no espaço livre, tipos de antenas utilizadas em comunicações e suas principais características . Finalmente serão introduzidos elementos empregados em microondas tais como : estruturas guiadas, estruturas planares e elementos concentrados mais importantes empregados em altas frequências : diodos semicondutores, Scthottky e PIN assim como transistores bipolares de GaAS - MESFET. 
+
+ Voce pode faltar: 7

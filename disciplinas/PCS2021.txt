@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2021 - Laboratório Digital II
+
+Em ingles 
+         Digital Laboratory II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Observação prática e montagem de dispositivos de eletrônica digital. Treinamento em depuração. Treinamento de trabalhos em grupo. Aprendizado dos processos de documentação de circuitos digitais.
+
+ Voce pode faltar: 7

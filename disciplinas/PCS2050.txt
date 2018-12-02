@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2050 - Projeto de Formatura II
+
+Em ingles 
+         Final Project II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        2
+
+Carga Horaria Total 
+       		120 h 
+ 			
+			 
+
+Objetivo 
+        Obtenção de conhecimentos práticos e habilidades associadas à implementação, documentação e testes de um projeto de formatura, envolvendo o projeto de hardware e/ou de software de sistemas. Exercício e consolidação das habilidades de trabalho em grupo
+
+ Voce pode faltar: 0

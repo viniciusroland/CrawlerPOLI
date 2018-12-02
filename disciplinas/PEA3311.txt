@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3311 - Laboratório de Conversão Eletromecânica de Energia
+
+Em ingles 
+         Electromechanical Energy Conversion Laboratory 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar aos alunos do Curso de Engenharia Elétrica os princípios básicos da Conversão Eletromecânica de Energia em um Laboratório.
+
+ Voce pode faltar: 5

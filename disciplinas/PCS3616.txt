@@ -1,0 +1,26 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3616 - Sistemas de Programação
+
+Em ingles 
+         Systems Programming 
+
+Credito Aula 
+        6
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+ObjetivoNone
+
+ Voce pode faltar: 11

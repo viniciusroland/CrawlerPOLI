@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Hidráulica e Ambiental
+
+Disciplina: PHA3002 - Modelagem em Engenharia Civil e Ambiental 1
+
+Em ingles 
+         Modelling in Civil and Environmental Engineering 1 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina objetiva apresentar problemas usuais de engenharia civil e ambiental e desenvolver com os alunos soluções através de técnicas de modelagem com o uso de planilhas eletrônicas, organização de dados, análise e interpretação de resultados gráficos.
+
+ Voce pode faltar: 3

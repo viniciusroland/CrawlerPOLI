@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3464 - Sensores: da Automação Industrial à IoT
+
+Em ingles 
+         Sensors: from Industrial Automation to IoT 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar ao aluno as relações entre a função de controle e a ação de medir. Apresentar a instrumentação disponível para medidas das diversas grandezas. Funcionamento dos sensores para medidas contínuas e discretas. Conexão digital na automação. Sensores utilizados em automação predial, residencial, agrícola e na saúde. Sensores para a Fábrica 4.0, Smart City e Internet das Coisas (IoT).
+
+ Voce pode faltar: 7

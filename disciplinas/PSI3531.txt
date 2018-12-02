@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3531 - Processamento de Sinais Aplicado
+
+Em ingles 
+         Applied Signal Processing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo dessa disciplina é estudar aplicações de processamento de sinais em diferentes problemas de engenharia. Conceitos e ferramentas de processamento de sinais serão abordados na resolução desses problemas por meio de simulações numéricas.
+
+ Voce pode faltar: 7

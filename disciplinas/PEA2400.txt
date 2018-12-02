@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2400 - Máquinas Elétricas I
+
+Em ingles 
+         Electrical Machines I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprofundar conceitos associados ao comportamento em regime permanente e transitório de máquinas elétricas rotativas (síncronas e de corrente contínua) bem como de transformadores de potência.
+
+ Voce pode faltar: 7

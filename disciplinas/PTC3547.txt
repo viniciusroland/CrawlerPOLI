@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3547 - Codificação e Transmissão Multimídia
+
+Em ingles 
+         Multimedia Coding and Transmission 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudar processos de aquisição, codificação e transmissão de imagens e áudio, aplicáveis a sistemas de comunicação multimídia, fundamentados nas características da percepção visual e auditiva.
+
+ Voce pode faltar: 7

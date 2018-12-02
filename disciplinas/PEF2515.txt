@@ -1,0 +1,30 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF2515 - O Método dos Elementos Finitos
+
+Em ingles 
+         The Finite Element Method 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Prover aos alunos de engenharia conceitos básicos sobre o Método dos Elementos Finitos e sobre a sua aplicação na solução de problemas da engenharia.
+
+
+Provide to student of Engineering the basic concepts of the Finite Element Method and its application on the solution of engineering problems.
+
+ Voce pode faltar: 3

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2395 - Eletrotécnica Geral
+
+Em ingles 
+         Applied Electricity 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo é estabelecer as bases  da análise de circuitos elétricos, permitindo aos estudantes compreender o funcionamento, a especialização e a utilização de equipamentos elétricos tais como transformadores, motores, fontes luminosas, condutores e dispositivos de proteção, com ênfase em circuitos de corrente alternada, os quais são usados em instalações elétricas prediais e industriais.
+
+ Voce pode faltar: 7

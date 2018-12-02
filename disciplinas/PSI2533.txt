@@ -1,0 +1,26 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2533 - Modelagem em Processamento de Sinais
+
+Em ingles 
+         Modeling in Signal Processing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+ObjetivoNone
+
+ Voce pode faltar: 7

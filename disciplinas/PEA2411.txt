@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2411 - Introdução à Automação de Sistemas Elétricos
+
+Em ingles 
+         Introduction to Electrical Systems Automation 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer os conceitos básicos associados com os equipamentos digitais utilizados no controle, na proteção e na medição de sistemas elétricos. Apresentar os componentes básicos utilizados na automação de sistemas elétricos.
+
+ Voce pode faltar: 3

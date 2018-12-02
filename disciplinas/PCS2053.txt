@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2053 - Gerência, Qualidade e Tecnologia de Software
+
+Em ingles 
+         Management, Quality and Technology of Software 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar processos de desenvolvimento, aquisição e manutenção de software. Introduzir técnicas de gerência de projetos conforme PMBOK adaptadas aos processos de software. Apresentar modelos de qualidade de software: ISO9000, CMM, CMMI, SPICE
+
+ Voce pode faltar: 7

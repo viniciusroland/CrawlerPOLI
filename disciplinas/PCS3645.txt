@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3645 - Laboratório Digital II
+
+Em ingles 
+         Digital Laboratory II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Desenvolvimento de projetos com circuitos digitais não triviais. Familiarização com procedimentos de integração de projetos. Observação prática e montagem de dispositivos de eletrônica digital (FPGAs e componentes discretos). Aplicação de técnicas de depuração e trabalho em grupo.
+
+ Voce pode faltar: 7

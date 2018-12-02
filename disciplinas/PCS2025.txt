@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2025 - Redes de Computadores
+
+Em ingles 
+         Computer Networks 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Esta disciplina tem, como objetivo, apresentar conceitos relacionados à arquitetura TCP/IP enfocando os diversos protocolos, interface sockets, elementos de interconexão de redes,  roteamento na Internet, algoritmos de roteamento e protocolos de roteamento.
+
+ Voce pode faltar: 7

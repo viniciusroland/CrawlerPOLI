@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3441 - Modelagem e Controle de Manipuladores Robóticos
+
+Em ingles 
+         Modelling and Control of Robotic Manipulators 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os fundamentos matemáticos do estudo de manipuladores robóticos industriais.
+
+ Voce pode faltar: 7

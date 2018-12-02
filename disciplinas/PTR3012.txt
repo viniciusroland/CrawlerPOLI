@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Transportes
+
+Disciplina: PTR3012 - Projeções Cartográficas para Planejamento e Projeto de Engenharia
+
+Em ingles 
+         Cartographic projections for planning and engineering design 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer conceitos fundamentais de projeções cartográficas para planejamento e projeto de engenharia. Mostrar aplicações nas diversas áreas e realizar um projeto prático.
+
+ Voce pode faltar: 7

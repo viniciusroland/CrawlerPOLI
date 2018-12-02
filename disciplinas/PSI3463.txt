@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3463 - Laboratório de Fabricação de Circuitos Integrados
+
+Em ingles 
+         Laboratory of Fabrication of Integrated Circuits 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Esta disciplina visa dar a oportunidade ao aluno de acompanhar de perto no laboratório as principais etapas de fabricação de circuitos integrados. O aluno participará do projeto e da fabricação de um dispositivo integrado básico (como por exemplo: transistor, capacitor, diodo etc), proporcionando a oportunidade rara no Brasil em nível de graduação, de entender o que tem por dentro de um circuito integrado (C.I.). Em um mundo onde quase todos os projetos terminam por produzir um circuito integrado dedicado (chip) não há como se formar em Engenharia Elétrica sem conhecer um pouco mais sobre este tipo de componente, que certamente irá acompanhá-los durante toda a vida.
+
+ Voce pode faltar: 7

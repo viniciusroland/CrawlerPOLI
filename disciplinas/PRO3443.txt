@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Produção
+
+Disciplina: PRO3443 - Projeto de Fábrica
+
+Em ingles 
+         Plant Design 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos e metodologias fundamentais para concepção e projeto de fábricas, com ênfase no projeto e organização dos processos de produção, movimentação e armazenagem de materiais, visando o adequado aproveitamento do espaço físico e a eficiência nos fluxos de materiais e ordens de produção no ambiente interno das fábricas.
+
+ Voce pode faltar: 11

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2371 - Modelagem de Sistemas Mecânicos
+
+Em ingles 
+         Modeling of Mechanical Systems 
+
+Credito Aula 
+        5
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		75 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os princípios e técnicas de modelamento dinâmico de sistemas em Engenharia Mecânica, por meio de leis básicas de conservação da energia e generalizações da teoria de sistemas.
+
+ Voce pode faltar: 9

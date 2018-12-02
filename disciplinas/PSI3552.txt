@@ -1,0 +1,28 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3552 - Processos e Caracterização de Dispositivos Nanoeletrônicos
+
+Em ingles 
+         Processes and Characterization of Nanoelectronic Devices 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Esta disciplina tem os objetivos de: 1- Apresentar os processos básicos de fabricação em microeletrônica e nanoeletrônica para obtenção de dispositivos eletrônicos; 2 – Realizar a caracterização dos principais dispositivos eletrônicos e das etapas de fabricação dos mesmos.
+A apresentação teórica de cada etapa e técnica de fabricação em micro e nanoeletrônica será alternada com aula de laboratório, onde serão realizadas as caracterizações dos processos e dispositivos eletrônicos.
+
+ Voce pode faltar: 7

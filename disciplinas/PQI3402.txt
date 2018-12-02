@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI3402 - Operações Unitárias III
+
+Em ingles 
+         Unit Operations III 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O aluno compreenderá os princípios de operações de separação da indústria química a partir de conceitos de mass balances, termodinâmica e transporte de massa. Ele aprenderá a desenvolver o projeto conceitual de processos de separação selecionados. O aluno deverá conhecer as principais variáveis de projeto e operação relacionadas às operações de separação em múltiplos estágios, tendo em vista os objetivos de desempenho econômico e ambiental, respeitando as especificações de pureza e rendimento.
+
+ Voce pode faltar: 7

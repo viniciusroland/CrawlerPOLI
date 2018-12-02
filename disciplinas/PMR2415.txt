@@ -1,0 +1,26 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2415 - Microprocessadores em Automação e Robótica
+
+Em ingles 
+         Microprocessors in Automation and Robotics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+ObjetivoNone
+
+ Voce pode faltar: 7

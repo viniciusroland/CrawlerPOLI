@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Produção
+
+Disciplina: PRO2415 - Planejamento, Programação e Controle da Produção
+
+Em ingles 
+         Production Planning, Scheduling and Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar um quadro conceitual de análise para auxiliar na formulação, avaliação e desenvolvimento de modelos para Planejamento, Programação e Controle da Produção nos diferentes ambientes de produção.
+
+ Voce pode faltar: 7

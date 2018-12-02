@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2300 - Computação para Automação
+
+Em ingles 
+         Computer Science for Automation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprendizado de noções básicas de técnicas de computação (estruturas de dados, noções de  complexidade computacional e técnicas de encapsulamento).
+
+ Voce pode faltar: 7

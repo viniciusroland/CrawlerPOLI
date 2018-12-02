@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3546 - Laboratório de Processamento Digital de Sinais
+
+Em ingles 
+         Digital Signal Processing Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudar e aplicar em diferentes plataformas (microcontroladores, processadores DSP e FPGAs) aspectos fundamentais de implementação de processamento digital de sinais: estruturas básicas de programação, algoritmos de processamento de sinais, arquitetura de processadores, noções de HDL, ferramentas de desenvolvimento.
+
+ Voce pode faltar: 7

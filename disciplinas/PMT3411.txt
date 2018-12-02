@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT3411 - Siderurgia II (Aciaria)
+
+Em ingles 
+         Steelmaking 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os processos tecnológicos de produção, refino e solidificação dos aços em usinas integradas e semi-integradas, aplicando diversas ferramentas para o cálculo, otimização e simulação dos processos metalúrgicos.
+
+ Voce pode faltar: 5

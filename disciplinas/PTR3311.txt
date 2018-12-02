@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Transportes
+
+Disciplina: PTR3311 - Geomática II
+
+Em ingles 
+         Geomatics II 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer conceitos fundamentais de Geoprocessamento, incluindo o Sensoriamento Remoto, a Modelagem Digital do Terreno, os Sistemas de Informações Geográficas e suas aplicações em Engenharia Civil e Engenharia de Minas.
+
+ Voce pode faltar: 7

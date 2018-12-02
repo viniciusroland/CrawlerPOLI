@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2443 - Microprocessadores e Controle Digital
+
+Em ingles 
+         Microprocessors and Digital Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir o aluno no estudo e projeto do controle de sistemas dinâmicos, através de controladores digitais.
+
+ Voce pode faltar: 7

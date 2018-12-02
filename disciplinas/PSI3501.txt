@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3501 - Processamento de Voz e Aprendizagem de Máquina
+
+Em ingles 
+         Speech Processing and Machine Learning 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Esta disciplina busca familiarizar os alunos com as técnicas modernas de aprendizagem de máquina e suas aplicações ao processamento de sinais de voz e estimular a busca de melhoramentos e alternativas a essas técnicas vigentes.
+
+ Voce pode faltar: 7

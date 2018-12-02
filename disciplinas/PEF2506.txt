@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF2506 - Projeto de Estruturas Marítimas
+
+Em ingles 
+         Marine Structure Design 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina propõe-se a apresentar e desenvolver modelos de análise e critérios de projeto de estruturas marítimas, utilizadas tanto na prospecção como na exploração de recursos do mar. São apresentados os sistemas estruturais típicos, a determinação dos carregamentos devidos ao meio ambiente e à operação, os modelos analíticos e numéricos de determinação de tensões na estrutura e em seus componentes, e os critérios de aceitabilidade. São apresentados exemplos de projeto seguindo o método racional e aquele executado por Regras das Sociedades Classificadoras.
+
+ Voce pode faltar: 3

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3200 - Mecânica II
+
+Em ingles 
+         Mechanical II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprofundar o conhecimento de Mecânica Geral do aluno, reforçando sua capacidade de aplicar os métodos vetoriais e analíticos voltados à  resolução de problemas da  dinâmica do corpo rígido e da dinâmica de  sistemas de corpos rígidos vinculados
+
+ Voce pode faltar: 7

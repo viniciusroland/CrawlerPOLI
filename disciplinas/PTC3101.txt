@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3101 - Engenho e Arte do Controle Automático
+
+Em ingles 
+         The Art and Craft of Cybernetics 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Desenvolver uma ponte entre os fundamentos matemáticos e científicos da engenharia, conforme ensinados no primeiro ano do curso da Politécnica, e desafios tecnológicos atuais, através dos conceitos de controle, comunicação, e cognição denominados cibernética por Wiener.
+
+ Voce pode faltar: 3

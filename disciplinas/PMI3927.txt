@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI3927 - Inteligência Computacional Aplicada à Indústria de Petróleo
+
+Em ingles 
+         Computational Intelligence Applied to Oil Industry 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os conceitos de inteligência computacional e exemplos de diversas aplicações na indústria de petróleo
+
+ Voce pode faltar: 3

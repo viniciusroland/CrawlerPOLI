@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3844 - Segurança da Informação
+
+Em ingles 
+         Information Security 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo desta disciplina é apresentar as principais questões ligadas à segurança da informação em sistemas de computação e comunicação. São tratados tanto aspectos práticos como teóricos, porém maior ênfase é dada às questões práticas usualmente encontradas em situações e sistemas reais. Como resultado, tomando como base técnicas e mecanismos úteis para a solução dos problemas de segurança identificados, são apresentados os principais conceitos teóricos que sustentam as soluções práticas de segurança da informação.
+
+ Voce pode faltar: 7

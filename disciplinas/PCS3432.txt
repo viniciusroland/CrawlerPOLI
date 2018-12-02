@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3432 - Laboratório de Processadores
+
+Em ingles 
+         Laboratory of Processors 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Obtenção de conhecimentos práticos e habilidades associadas ao projeto e uso das arquiteturas de microprocessadores e dos sistemas microprocessados, por meio da aplicação dos conceitos associados em experimentos práticos.
+
+ Voce pode faltar: 11

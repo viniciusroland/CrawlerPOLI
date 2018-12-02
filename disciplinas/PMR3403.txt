@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR3403 - Atuadores e Acionamentos
+
+Em ingles 
+         Actuators and Drives 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Revisar os conceitos básicos da conversão de potência, desenvolver a capacidade de análise e síntese de atuadores e acionamentos utilizados em Mecatrônica.
+
+ Voce pode faltar: 5

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3492 - Princípios da Formação e Processamento de Imagens Médicas
+
+Em ingles 
+         Principles of Medical Image Generation and Processing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir conceitos básicos dos princípios físicos da formação e do processamento digital de imagens médicas.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2350 - Mecânica dos Sólidos II
+
+Em ingles 
+         Solids Mechanics II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar alguns conceitos relacionados à Teoria da Elasticidade e à Teoria da Plasticidade com aplicações no campo da Engenharia Mecânica.
+
+ Voce pode faltar: 7

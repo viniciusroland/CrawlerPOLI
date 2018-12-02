@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3288 - Eletricidade I
+
+Em ingles 
+         Electricity I 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Habilitar o estudante a desenvolver projetos de instalações elétricas, incluindo noções de automação elétrica. Apresentar uma introdução ao eletromagnetismo e suas aplicações: transformadores e motores elétricos.
+
+ Voce pode faltar: 3

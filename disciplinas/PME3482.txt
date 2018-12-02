@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3482 - Controle Discreto
+
+Em ingles 
+         Discrete-time Control 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer as ferramentas teóricas necessárias à análise e projeto do controle de sistemas dinâmicos através de controladores digitais. 
+
+ Voce pode faltar: 7

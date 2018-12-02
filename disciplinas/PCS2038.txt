@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2038 - Conceitos Gerais de Automação
+
+Em ingles 
+         General Concepts of Automation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresenta os modernos conceitos de automação industrial, com enfoque em controle distribuído, ferramentas de automação da manufatura e instrumentação.
+
+ Voce pode faltar: 7

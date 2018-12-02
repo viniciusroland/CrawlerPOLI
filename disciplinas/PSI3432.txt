@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3432 - Processamento de Áudio e Imagem
+
+Em ingles 
+         Audio and Image Processing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Esta disciplina visa abordar aspectos mais avançados em processamento de sinais, como processamento multitaxa e transformada de Fourier aplicada a sinais não estacionários como áudio e imagem. Ela envolve tanto aspectos teóricos quanto práticos, com implementações, principalmente em Matlab, relacionadas às aplicações mencionadas. 
+
+ Voce pode faltar: 7

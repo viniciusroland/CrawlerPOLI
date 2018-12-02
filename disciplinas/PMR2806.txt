@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2806 - Metrologia Óptica
+
+Em ingles 
+         Optical Metrology 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Transmitir aos alunos conhecimento básicos sobre metrologia óptica ou seja métodos de medição de tamanho e geometria de componentes mecânicos com o emprego de métodos ópticos, com particular  ênfase na interferometria a laser.
+
+ Voce pode faltar: 3

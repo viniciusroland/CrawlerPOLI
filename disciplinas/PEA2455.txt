@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2455 - Controle
+
+Em ingles 
+         Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O aluno deverá aprender os conceitos básicos relativos ao controle linear clássico, tornando-se capaz de analisar e projetar sistemas de controle básicos.
+
+ Voce pode faltar: 7

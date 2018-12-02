@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3562 - Engenharia de Energia Eólica
+
+Em ingles 
+         Wind Energy Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar aos alunos os principais tópicos de energia eólica, começando pela caracterização do potencial eólico, explorando aspectos específicos das tecnologias empregadas bem como fundamentos de aerodinâmica, materiais, mecânica estrutural e sistemas elétricos que norteiam o projeto e operação de aerogeradores, estudando também a operação e controle de parques eólicos, sua viabilidade econômica e impactos ambientais. Além do aprendizado deste conteúdo, a disciplina também tem o objetivo de integrar conhecimentos de diversas áreas da engenharia, dada a sua faceta multidisciplinar. Por fim, mas não menos importante, dar-se-á grande ênfase à aplicação prática dos conceitos aprendidos em atividades de projeto.
+
+ Voce pode faltar: 11

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Instituto de Matemática e Estatística
+
+Curso 
+	    Ciência da Computação
+
+Disciplina: MAC2166 - Introdução à Computação
+
+Em ingles 
+         Introduction to Computing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Desenvolver um raciocínio aplicado na formulação e resolução de problemas computacionais. Utilizar programação para tornar concretos alguns dos conceitos comuns em ciência da computação.
+
+ Voce pode faltar: 9

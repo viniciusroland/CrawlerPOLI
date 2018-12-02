@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3734 - Laboratório de Redes de Computadores
+
+Em ingles 
+         Computer Networks Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Reforçar os conhecimentos desenvolvidos nas disciplinas teóricas de redes de computadores através de experimentos práticos de projetos sob este tema. As experiências abrangem atividades que incluem planejamento e configuração de rede, roteamento, redes sem fio e de sensores, qualidade de serviço, segurança de redes, redes definidas por software, instalação e configuração de serviços de rede e desenvolvimento de aplicações de redes.
+
+ Voce pode faltar: 11

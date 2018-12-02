@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3111 - Laboratório de Programação Orientada a Objetos para Engenharia Elétrica
+
+Em ingles 
+         Object Oriented Programming Laboratory for Electrical Engineering 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os conceitos de programação Orientada a Objetos e utilizá-los no desenvolvimento de uma aplicação em Engenharia Elétrica. A aplicação é desenvolvida de forma incremental, isto é, são agregadas novas funções a cada aula. Desenvolver a capacidade dos alunos para organização, construção, teste e depuração de programas.
+
+ Voce pode faltar: 5

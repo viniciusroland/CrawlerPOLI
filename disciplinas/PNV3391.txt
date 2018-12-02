@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3391 - Laboratório de Engenharia Naval I
+
+Em ingles 
+         Laboratory for Naval Engineering  I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        2
+
+Carga Horaria Total 
+       		120 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir o aluno ao ambiente, técnicas, métodos e ferramentas de análise nas práticas experimentais mais comuns em Engenharia Naval. Desenvolver o raciocício experimentalista na investigação de fenômenos através de modelagem de sistemas, identificação de variáveis e determinação de parâmetros significativos.
+
+ Voce pode faltar: 0

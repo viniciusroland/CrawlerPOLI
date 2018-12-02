@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3540 - Laboratório de Antenas e Microondas
+
+Em ingles 
+         Antennas and Microwave Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudo e aplicação de técnicas de medições utilizadas para antenas, linhas de transmissão e guias de onda.
+
+ Voce pode faltar: 7

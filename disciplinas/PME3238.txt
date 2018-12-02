@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3238 - Fenômenos de Transporte
+
+Em ingles 
+         Transport Phenomena 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer os conceitos básicos de Mecânica dos Fluidos e Transferência de Calor e Massa com aplicações à Engenharia. Dar ao aluno do Curso de Engenharia Ambiental uma base científica para que ele possa se desenvolver nas disciplinas aplicadas tecnológicas do curso.
+
+ Voce pode faltar: 11

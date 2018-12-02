@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3517 - Aleatoriedade e Incertezas: Modelagem e Impacto nas Decisões de Engenharia
+
+Em ingles 
+         Randomness and Uncertainty: Modeling and Impact in Engineering Decisions 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Dar ao estudante uma oportunidade para rever conceitos de Teoria das Probabilidades e de Estatística no contexto das decisões de Engenharia, particularmente aquelas da Engenharia Geotécnica no seu jogo contra a natureza. Familiarizar o estudante com o tipo de raciocínio que se exige de quem pretende modelar incertezas para tomar decisões melhores. 
+
+ Voce pode faltar: 3

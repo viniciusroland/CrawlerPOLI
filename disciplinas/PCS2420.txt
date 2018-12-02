@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2420 - Laboratório de Engenharia de Software II
+
+Em ingles 
+         Software Engineering Laboratory II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Os alunos aprendem a organizar e controlar as atividades de um projeto para obter um único sistema integrado. Este processo de desenvolvimento está baseado em uma arquitetura que permita o exercício de conceitos avançados de Engenharia de Software: gestão, paralelismo, integração entre equipes e desenvolvimento usando componentes.
+
+ Voce pode faltar: 7

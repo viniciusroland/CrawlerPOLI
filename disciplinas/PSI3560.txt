@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3560 - Sistemas Cognitivos
+
+Em ingles 
+         Cognitive Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introdução às ciências cognitivas, e discussão deprincípios e técnicas para concepção e implantação de sistemas artificiais com um viés cognitivo. O curso apresenta uma linha complementar ao estudo oferecido em outras disciplinas da ênfase de Eletrônica e Sistemas, e particularmente da especialidade de Sistemas Inteligentes.
+
+ Voce pode faltar: 7

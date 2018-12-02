@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3558 - Laboratório de Sistemas Embarcados
+
+Em ingles 
+         Embedded Systems Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Obter conhecimentos práticos e habilidades associadas ao projeto de dispositivos para Sistemas Embarcados, por meio da aplicação dos conceitos associados a experimentos práticos. 
+
+ Voce pode faltar: 7

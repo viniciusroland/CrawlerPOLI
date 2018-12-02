@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3210 - Mecânica dos Sólidos I
+
+Em ingles 
+         Mechanics of Solids I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos preliminares sobre o comportamento das estruturas, fornecendo a base necessária a cursos complementares mais avançados.
+
+ Voce pode faltar: 7

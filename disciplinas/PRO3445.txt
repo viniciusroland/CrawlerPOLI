@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Produção
+
+Disciplina: PRO3445 - Planejamento e Controle da Produção
+
+Em ingles 
+         Production Planning and Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo da disciplina é apresentar um quadro conceitual de análise e métodos para auxiliar na formulação, desenvolvimento e avaliação de modelos apoio à decisão em Planejamento, Programação e Controle de Sistemas de Produção e Estoques.
+
+ Voce pode faltar: 7

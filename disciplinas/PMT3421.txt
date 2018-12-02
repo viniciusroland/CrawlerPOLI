@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT3421 - Reologia de Materiais Poliméricos
+
+Em ingles 
+         Rheology of Polymeric Materials 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        A reologia é a ciência que estuda como os materiais deformam e fluem sob tensão. As propriedades reológicas são sensíveis a aspectos específicos da estrutura dos polímeros e são mais fáceis de serem empregadas do que métodos analíticos. Propriedades reológicas também governam o comportamento de fluxo dos materiais poliméricos quando processados no estado fundido. A disciplina tem como objetivo o ensino de conceitos básicos de reologia de materiais (polímeros fundidos) para um engenheiro de materiais. Também visa familharizar o futuro engenheiro com métodos experimentais utilizados para avaliar as propriedades reológicas de materiais poliméricos.
+
+ Voce pode faltar: 7

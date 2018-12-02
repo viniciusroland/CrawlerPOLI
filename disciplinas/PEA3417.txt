@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3417 - Sistemas de Potência II
+
+Em ingles 
+         Power Systems II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar as diversas formas de representação matricial de redes elétricas. Determinação de redes equivalentes (redução de nós e equivalente de redes). Estudar os problemas de curto circuito e fluxo de potência em sistemas elétricos de potência.
+
+ Voce pode faltar: 7

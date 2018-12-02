@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3551 - Projeto de Sistemas Embarcados em Chips
+
+Em ingles 
+         On-chip Embedded Systems Design 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina apresenta os principais conceitos que fundamentam o projeto estruturado (projeto top-down) de sistemas digitais embarcados(embutidos) hardware-software (conhecidos pela sigla SoC, do inglês system-on-chip), com foco em uso de plataformas de desenvolvimento de hardware específico e de software. O aluno deve desenvolver o projeto de um sistema embarcado específico em uma plataforma de desenvolvimento de FPGAs.
+
+ Voce pode faltar: 7

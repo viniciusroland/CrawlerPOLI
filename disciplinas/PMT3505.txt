@@ -1,0 +1,31 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT3505 - Metalurgia Física II: Metalurgia Mecânica
+
+Em ingles 
+         Physical Metallurgy II: Mechanical Metallurgy 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        1) Compreender a relação entre esforço mecânicos e o desenvolvimento de microestruturas em materiais metálicos
+2) Compreender a relação entre rotas de processamento mecânico e o desenvolvimento de microestruturas particulares, visando propriedades mecânicas optimizadas
+3) Interpretar Figuras de Polo e Funções de Distribuição de Orientações Cristalográficas (FDOCs) para caracterização da textura cristalográfica de um material metálico
+4) Compreender a relação entre textura cristalográfica, processamento por conformação e propriedades mecânicas optimizadas
+5) Compreender a evolução da microestrutura de deformação de metais e ligas por conta de esforços cíclicos e sua relação com a resistência à fadiga
+
+ Voce pode faltar: 7

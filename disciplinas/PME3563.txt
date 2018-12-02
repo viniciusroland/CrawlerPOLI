@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3563 - Laboratório de Energias Renováveis
+
+Em ingles 
+         Renewable Energy Laboratory 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Essa disciplina visa fornecer aos estudantes um laboratório para que os mesmos possam ter contato direto com algumas formas de energia renovável por meio de experimentos e análises pertinente. Cobre os assuntos energia solar fotovoltaica, energia solar térmica, célula de combustível e energia eólica.
+
+ Voce pode faltar: 3

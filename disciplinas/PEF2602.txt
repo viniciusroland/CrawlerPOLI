@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF2602 - Estruturas na Arquitetura I I: Sistemas Reticulados
+
+Em ingles 
+         Structures in Architecture II: Frame Structures 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        	Ênfase em aspectos de análise e projeto de treliças, estruturas simples de cabos, vigas isostáticas e pilares, usando recursos analíticos, computacionais e experimentais; tópicos complementares de análise de tensões, deformações e deslocamentos.
+
+ Voce pode faltar: 7

@@ -1,0 +1,29 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3501 - Simulação Termo Energética de Edificações e seus Sistemas
+
+Em ingles 
+         Thermal and Energy Building Simulation and Its Systems 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        4
+
+Carga Horaria Total 
+       		150 h 
+ 			
+			 
+
+Objetivo 
+        -	Apresentar conceitos fundamentais da simulação termo energética de edificações e seus sistemas.
+-	Caracterizar os principais modelos e técnicas de modelagem termo energética de edificações e seus sistemas.
+-	Apresentar ferramentas de simulação e suas principais aplicações para simulação termo energética de edificações e seus sistemas.
+
+ Voce pode faltar: 1

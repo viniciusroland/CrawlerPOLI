@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Transportes
+
+Disciplina: PTR3512 - Geoprocessamento Aplicado a Transportes
+
+Em ingles 
+         Geoprocessing Applied to Transport Engineering 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Prover aos alunos conceitos fundamentais de Geoprocessamento aplicado a Transportes, incluindo técnicas de Análise Espacial e modelagem de redes em Sistemas de Informações Geográficas (SIG) em busca de revelar e descrever padrões espaço-temporais que possam contribuir para o suporte à decisão na Engenharia de Transportes. 
+
+ Voce pode faltar: 3

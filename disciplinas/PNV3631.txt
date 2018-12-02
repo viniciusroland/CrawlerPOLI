@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3631 - Princípios de Fadiga e Fratura de Estruturas Navais e Oceânicas
+
+Em ingles 
+         Principles of Fatigue and Fracture of Marine Structures 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os conceitos básicos dos modos de falha de estruturas oceânicas e as respectivas metodologias para sua avaliação. O foco do curso será nos modos de Fadiga e Fratura. As metodologias para avaliar os tempos de iniciação de defeitos e as correspondentes taxas de propagação serão amplamente discutidas. Também, as metodologias para especificar os tamanhos toleráveis de defeitos em estruturas serão apresentadas. Aplicações das metodologias em estruturas metálicas offshore serão dadas. 
+
+ Voce pode faltar: 7

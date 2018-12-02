@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2518 - Aplicações de Métodos Numéricos a Sistemas Termofluidos
+
+Em ingles 
+         Numerical Methods Applied to Thermal-Fluid Systems 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer uma formação básica nos métodos e procedimentos utilizados na solução numérica de problemas termofluidos, na simulação de equipamentos industriais e de sistemas termofluidos.
+
+ Voce pode faltar: 3

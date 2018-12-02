@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3389 - Laboratório de Eletricidade Geral II
+
+Em ingles 
+         General Electricity Laboratory II 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Oferecer ao aluno a oportunidade de verificar experimentalmente alguns fenômenos elétricos e magnéticos. Apresentar as principais aplicações industriais do eletromagnetismo: dispositivos de proteção, transformadores e motores.
+
+ Voce pode faltar: 3

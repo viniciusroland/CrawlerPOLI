@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI3231 - Amostragem e Controle de Qualidade na Mineração
+
+Em ingles 
+         Sampling and Quality Control for Mining and Mineral Processing 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina apresenta os conceitos de amostragem de minérios com fins de estimativa de teores, abordando tanto a Teoria da Amostragem de Pierre Gy quanto a prática industrial em todas as etapas do empreendimento mineiro: exploração, lavra e beneficiamento. A disciplina apresenta, também, conceitos básicos de QA-QC (garantia e controle de qualidade) e de Reconciliação Mineira (comparação entre as estimativas dos modelos geológicos e a produção da usina), temas para os quais a Amostragem possui um papel indispensável. Exercícios práticos com dados reais da indústria mineral visam fixar os conceitos teóricos. 
+
+ Voce pode faltar: 3

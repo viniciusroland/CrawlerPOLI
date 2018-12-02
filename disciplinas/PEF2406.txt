@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF2406 - Fundamentos de Mecânica dos Solos
+
+Em ingles 
+         Foundations of Soil Mechanics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar aos alunos do curso de Engenharia de Minas os princípios básicos da Mecânica dos Solos, desde a identificação dos diversos tipos de solos, discutindo suas características a partir dos processos de formação e dos grãos que os constituem, e apresentando as teorias empregadas para descrever seu comportamento em obras de engenharia, como o princípio das tensões efetivas, a teoria do adensamento e a resistência ao cisalhamento. O objetivo principal é o de preparar os alunos para as disciplinas de geotecnia aplicada a obras de engenharia: estabilidade de taludes, aterros e barragens, escavações e fundações, e obras de geotecnica ambiental.
+
+ Voce pode faltar: 7

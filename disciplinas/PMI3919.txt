@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI3919 - Análise Computacional de Estruturas
+
+Em ingles 
+         Computational Analysis of Structures 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo desta disciplina é mostrar os aspectos teóricos e práticos relacionados à formulação do Método dos Elementos Finitos (MEF) com aplicações em analise estrutural.
+
+ Voce pode faltar: 3

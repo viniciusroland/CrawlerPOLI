@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3422 - Métodos de Otimização Aplicados a Sistemas Elétricos
+
+Em ingles 
+         Optimization Methods Applied to Electrical Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar técnicas de otimização para modelagem de problemas da engenharia elétrica, incluindo técnicas convencionais (por programação matemática) e técnicas heurísticas, tais como algoritmos genéticos. Aplicação destas técnicas em diversos problemas típicos de engenharia de potência, tais como a minimização de perdas em redes elétricas e o dimensionamento de equipamentos elétricos.
+
+ Voce pode faltar: 7

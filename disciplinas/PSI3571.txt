@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3571 - Práticas em Reconhecimento de Padrões, Modelagem e Inteligência Computacional
+
+Em ingles 
+         Experimental Pattern Recognition, Modeling and Computational Intelligence 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo principal da disciplina é oferecer aos alunos da ênfase Eletrônica e Sistemas e aos demais cursos de Engenharia a oportunidade de realização de projetos práticos e prototipação de sistemas envolvendo as temáticas de reconhecimento de padrões e a modelagem computacional de sistemas reais, através de técnicas de neurocomputação e inteligência computacional de uma forma geral.
+
+ Voce pode faltar: 7

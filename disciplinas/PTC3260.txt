@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3260 - Laboratório de Conectividade
+
+Em ingles 
+         Connectivity Laboratory 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Na era da internet das coisas (IoT, em inglês), tudo precisa estar conectado. Esta disciplina objetiva introduzir e trabalhar, através de aprendizado experimental, conceitos fundamentais das tecnologias habilitantes da IoT: aquisição de dados de sensores, transmissão sem fio de dados, protocolos e aplicações. Experiências apresentam o ferramental necessário que é usado para a realização de um projeto ao término do curso.
+
+ Voce pode faltar: 3

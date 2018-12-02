@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2710 - Biomecatrônica e Biorrobótica
+
+Em ingles 
+         Biomechatronics And Biorobotics 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Aprendizado de noções básicas de sistemas robóticos de inspiração biológica.
+
+ Voce pode faltar: 3

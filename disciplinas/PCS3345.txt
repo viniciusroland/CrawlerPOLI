@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3345 - Laboratório Digital B
+
+Em ingles 
+         Digital Laboratory B 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Experiências práticas sobre: Projeto e implementação de sistemas digitais não triviais. Aplicação da metodologia de projeto estruturado na implementação de sistemas digitais com lógica programável. Uso de linguagens de descrição de hardware. Utilização de ferramentas de projeto e simulação de sistemas digitais.
+
+ Voce pode faltar: 7

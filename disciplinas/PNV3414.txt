@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3414 - Dinâmica de Sistemas II
+
+Em ingles 
+         Systems Dynamics II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos da dinâmica de sistemas lineares e não lineares, enfatizando problemas relacionados à oscilação de sistemas mecânicos, navais e oceânicos. Capacitar o aluno a modelar problemas desta natureza, analisando-os com técnicas analíticas e/ou numéricas apropriadas.
+
+ Voce pode faltar: 7

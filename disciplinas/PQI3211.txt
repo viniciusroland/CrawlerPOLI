@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI3211 - Processos Químicos
+
+Em ingles 
+         Chemical Process 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Oferecer ao aluno de engenharia de produção uma noção das especificidades de uma indústria química. Conceituar as principais operações empregadas numa planta química de uma forma unitária e discutir a sua integração num processo químico industrial.
+
+ Voce pode faltar: 7

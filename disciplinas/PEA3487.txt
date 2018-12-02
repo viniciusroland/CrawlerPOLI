@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3487 - Eletrônica de Potência I
+
+Em ingles 
+         Power Electronics I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introdução aos conceitos de Eletrônica de Potência, com ênfase aos conversores comutados pela rede de corrente alternada (C.A.).O aluno deverá aprender os princípios da conversão de C.A. para corrente contínua (C.C.) e conversão C.C./C.A. utilizando chaves eletrônicas comutadas pela rede C.A., incluindo a análise, projeto e aplicações das topologias mais usadas, a influência na rede C.A. e soluções.
+
+ Voce pode faltar: 7

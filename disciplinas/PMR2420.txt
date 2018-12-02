@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2420 - Mecânica Computacional
+
+Em ingles 
+         Computational Mechanics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introdução de conceitos de cálculo numérico com aplicação em Engª. Mecânica e Mecatrônica, particularmente solução de sistemas de equações diferenciais, equações de derivadas parciais e método dos elementos finitos.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Construção Civil
+
+Disciplina: PCC3538 - Simulação Computacional de Desempenho Energético do Edifício
+
+Em ingles 
+         Energy Building Simulation 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Capacitar o aluno a avaliar o desempenho energético de edifícios e as suas condições de conforto térmico e luminoso, utilizando a simulação computacional como ferramenta. A partir de conhecimentos básicos de Física das Construções e de habilidades na utilização de ferramentas computacionais de projeto, são introduzidos novos conteúdos de programas computacionais que incluam o projeto, a operação e a manutenção de sistemas para conforto ambiental.
+
+ Voce pode faltar: 7

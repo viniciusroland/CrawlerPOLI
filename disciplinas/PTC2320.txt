@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2320 - Programação Matemática Aplicada a Controle
+
+Em ingles 
+         Mathematical Programming Applied to Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Contextualização de Programação Matemática na classe do problemas de otimização, idéias gerais metodologias e tipos de problemas. Programação Linear: fundamentos. Conceituação  e utilização de método aimplex, dualidade. Programação não-linear, princípios, resultados básicos, alguns métodos de solução. Aplicações de programação Matem'stica em controle dinâmico.
+
+ Voce pode faltar: 7

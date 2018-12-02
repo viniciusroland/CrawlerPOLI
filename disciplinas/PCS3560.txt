@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3560 - Projeto de Formatura II
+
+Em ingles 
+         Final Project II 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        2
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Obtenção de conhecimentos práticos e habilidades associadas a implementação e testes de um projeto de formatura, na área de Engenharia de Computação, envolvendo projeto de sistemas (de hardware e/ou de software). Consolidação das habilidades de trabalho em grupo.
+
+ Voce pode faltar: 11

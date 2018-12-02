@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3563 - Gerência e Qualidade de Software
+
+Em ingles 
+         Management and Software Quality 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Capacitar os alunos na gestão corporativa de tecnologia de informação, com o foco principal em software. Capacitar na melhoria da qualidade de processos, produtos e serviços de software e TI.
+
+ Voce pode faltar: 7

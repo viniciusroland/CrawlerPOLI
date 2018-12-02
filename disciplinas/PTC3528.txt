@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3528 - Projeto de Formatura em Telecomunicações
+
+Em ingles 
+         Graduation Project in Telecommunications 
+
+Credito Aula 
+        1
+
+Creditos Trabalho 
+        3
+
+Carga Horaria Total 
+       		105 h 
+ 			
+			 
+
+Objetivo 
+        Executar o projeto de formatura planejado em PTC3527. 
+
+ Voce pode faltar: 0

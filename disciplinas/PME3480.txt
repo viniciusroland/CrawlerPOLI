@@ -1,0 +1,28 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3480 - Motores de Combustão Interna
+
+Em ingles 
+         Internal Combustion Engines 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os diversos tipos de motores de combustão interna, seus princípios de funcionamento, parâmetros e curvas características, bem como o equacionamento básico de fluxos de ar e combustível para dimensionamento de componentes importantes.
+Mostrar a importância de aspectos tecnológicos associados à evolução de desempenho desta máquina térmica.
+
+ Voce pode faltar: 5

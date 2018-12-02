@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF2401 - Mecânica das Estruturas II
+
+Em ingles 
+         Mechanics of Structures II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina tem por objetivos a apresentação de tópicos complementares à sólida formação que se requer do engenheiro civil no conjunto de disciplinas de mecânica das estruturas. Inicialmente, abordam-se os teoremas de energia, que fornecem outra via de acesso para a análise estrutural, qual seja a da mecânica analítica em contraposição à mecânica vetorial. São também a forma natural de introduzir os métodos variacionais, de larga aplicação na mecânica das estruturas. Destaque será dado ao método dos esforços. Na seqüência, apresenta-se uma introdução à teoria da plasticidade, essencial para se entender o comportamento dos materiais estruturais e  das estruturas de uso corrente em engenharia civil, discutindo os critérios de resistência para materiais dúcteis, a lei de plastificação para materiais elastoplásticos perfeitos e aplicações à análise limite de estruturas de barras.Finaliza-se a disciplina com capítulo cada vez mais essencial para a formação do moderno engenheiro civil, no qual se apresenta, de forma introdutória, a dinâmica das estruturas. Entre as obras de engenharia civil que demandam análises dinâmicas mencionam-se os edifícios altos, construções industriais, pontes pênseis e estaiadas, plataformas oceânicas. O comportamento dinâmico destas estruturas não pode ser bem interpretado com raciocínios quase-estáticos simplistas. A disciplina propõe-se, assim, a apresentar os procedimentos clássicos da análise, em especial a análise modal e a análise no domínio do tempo, aplicadas a modelos de estruturas de barras, através de análise matricial.
+
+ Voce pode faltar: 7

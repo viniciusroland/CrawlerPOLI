@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3211 - Mecânica dos Sólidos II
+
+Em ingles 
+         Mechanics of Solids II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos mais avançados sobre o comportamento das estruturas, complementando os conceitos vistos na disciplina Mecânica dos Sólidos I.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3429 - Laboratório de Circuitos de Comunicações
+
+Em ingles 
+         Communications Circuits Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Este laboratório visa a familiarização do aluno com circuitos básicos, instrumentos e métodos de medida relevantes ao domínio dos dispositivos e equipamentos utilizados em Telecomunicações. São estudados osciladores, conversores de frequência, moduladores e demoduladores AM e FM, sistemas PAM, malha de sincronismo de frequência, canais digitais AWGN, equalização de canal, códigos corretores de erros, analisados nos domínios do tempo e da frequência. Em particular, as técnicas de medidas espectrais e de projeto de circuitos de RF vistas nessa disciplina são fundamentais para a formação do engenheiro de Telecomunicações. 
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3012 - Introdução à Eletricidade e Eletrônica
+
+Em ingles 
+         Introduction to Electricity and Electronics 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Aprendizado dos conceitos básicos de eletricidade e eletrônica.
+
+ Voce pode faltar: 3

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3553 - Dinâmica de Voo
+
+Em ingles 
+         Flight Dynamics 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O curso tem como objetivo proporcionar ao aluno uma visão da dinâmica de voo como a integração entre as forças aerodinâmicas, de inércia e de tração acopladas à equação de movimento de uma aeronave caracterizando seu comportamento em voo. Conceitos e métodos da avaliação do comportamento em voo da aeronave são apresentados. São desenvolvidos conceitos de estabilidade estática, comportamento dinâmico e resposta de controle. A linearização da equação do movimento de uma aeronave é desenvolvida para avaliação dinâmica do movimento. Efeitos na estabilidade e controle devido aos sistemas de controle reversível e irreversível são estudados para que o aluno tenha visão do projeto de sistema de controle. Após ser apresentado o conteúdo fundamental de dinamica de voo, o aluno terá contato com requisitos militares e civis de qualidade de voo e suas inter-relações com o projeto aeronáutico. Assim o aluno terá, além da visão do comportamento em voo da aeronave, uma visão de projeto.
+
+ Voce pode faltar: 7

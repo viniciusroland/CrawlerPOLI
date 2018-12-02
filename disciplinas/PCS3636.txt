@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3636 - Paradigmas de Linguagens de Programação
+
+Em ingles 
+         Programming Language Paradigms 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Prover fundamentos sobre os elementos componentes das linguagens de programação, os paradigmas existentes e os princípios de sua implementação, com o objetivo de dotar o estudante de ferramentas suficientes para que possa fazer uma boa escolha e utilização de linguagens, que se mostrem adequadas a cada aplicação.
+
+ Voce pode faltar: 7

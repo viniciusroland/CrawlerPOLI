@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2477 - Organização de Computadores
+
+Em ingles 
+         Computer Organization 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os conceitos principais relacionados com a organização e projeto de computadores, focalizando os aspectos de interface software-hardware e seu impacto no desempenho. Os tópicos cobertos incluem programação em assembly language, como programas de alto nível são traduzidos em linguagem de máquina, a estrutura geral dos computadores, interrupções, caches, translação de endereços, e tópicos relacionados
+
+ Voce pode faltar: 7

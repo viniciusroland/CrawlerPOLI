@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3424 - Redes de Computadores II
+
+Em ingles 
+         Computer Networks II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos e tecnologias atuais e avançadas de comunicação de dados em redes de computadores, incluindo redes locais, metropolitanas e de longa distância. É também objetivo apresentar tecnologias de redes locais e metropolitanas sem fio e sua integração em redes heterogêneas. Apresentar também os conceitos e tecnologias para redes convergentes e virtualização de redes. É também objetivo apresentar conceitos, arquiteturas e algumas tecnologias relacionadas a gerenciamento e segurança de redes de computadores.
+
+ Voce pode faltar: 7

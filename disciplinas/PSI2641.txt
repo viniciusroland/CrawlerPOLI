@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2641 - Processos Básicos em Microeletrônica
+
+Em ingles 
+         Basic Processing in Microelectronics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir as técnicas de fabricação de dispositivos e circuitos integrados em microeletrônica. Apresenta os princípios, técnicas, equipamentos e softwares utilizados na simulação e fabricação de dispositivos em silício e arseneto de gálio de uma maneira global e genérica.
+
+ Voce pode faltar: 7

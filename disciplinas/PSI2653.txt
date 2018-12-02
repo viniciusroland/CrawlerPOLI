@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2653 - Meios Eletrônicos Interativos I
+
+Em ingles 
+         Interactive Electronics Medias I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Os sistemas eletrônicos modernos vêm crescentemente apresentando suporte a aplicações  multimeio distribuídas, onde podemos citar como características: de portabilidade, mobilidade, facilidades de comunicação, utilização de novas interfaces homem-máquina, alto nível de integração, notadamente com a utilização do modelo de sistemas em um único Circuito Integrado, utilização de grande variedade de sensores e atuadores (notadamente com o uso de tecnologia MEMS), etc. Esta disciplina objetiva prover conceitos necessários para a concepção e entendimento destes novos sistemas de meios eletrônicos interativos modernos: introdução às aplicações multimeio interativas; fundamentos de tecnologias de comunicação, legadas e emergentes;  sistemas eletrônicos móveis e comunicação sem fio;  aspectos de projeto de sistemas programacionais  para esses sistemas (sistema operacional, programação cliente-servidor, etc.), e estudo de casos envolvendo um sistema multimeio eletrônico complexo. O curso também contempla discussões sobre textos selecionados, aulas de demonstração e  aulas de laboratório.
+
+ Voce pode faltar: 7

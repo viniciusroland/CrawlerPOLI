@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT2514 - Modelamento e Simulação na Conformação de Metais e Materiais
+
+Em ingles 
+         Simulation and Modeling of conformation of metals and materiais 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		75 h 
+ 			
+			 
+
+Objetivo 
+        Levar o aluno a ter os conhecimentos básicos relativos ao modelamento matemático e simulação de processos na área de Conformação Mecânica de ligas metálicas : aços, ligas de aluminio e de cobre e de materiais: plásticos,elastômeros e cerâmicas.Capacitar o aluno a conhecer o efeito de variáveis de processo sobre as propriedades( distribuição de tensões/deformações/temperaturas/microestrutura,etc). A simulação visa capacitar o aluno possibilitar a análise de variáveis estocásticas, típicas da conformação mecânica, visando entender estatisticamente a razão das janelas operacionais do processo analisado. O emprego do método de elementos finitos, complementado pelas redes neurais adaptativas e pelo método de resposta de superfície, visa dar as ferramentas básicas para a análise de problemas em condições realistas.
+
+ Voce pode faltar: 9

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3405 - Processos Estocásticos
+
+Em ingles 
+         Stochastic Processes 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudar  conceitos básicos de Processos Estocásticos com ênfase na descrição de processos estacionários em senso amplo.
+
+ Voce pode faltar: 7

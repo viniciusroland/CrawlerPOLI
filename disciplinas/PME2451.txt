@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2451 - Medição de Grandezas Mecânicas
+
+Em ingles 
+         Measurement of Mechanical Quantities 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer uma introdução à medição e seus conceitos básicos e aplicações, fornecer um conhecimento básico (teórico e experimental) sobre sensores, suas características estáticas e dinâmicas, seus princípios de funcionamento, e apresentar noções de aquisição e tratamento de sinais. O aluno deverá adquirir as primeiras noções e capacidades para projetar um experimento, ou seja: o que, porque e como medir, como selecionar sensores, como fazer a aquisição e tratamento do sinal, e como registrar em relatório as conclusões obtidas no ensaio experimental.
+
+ Voce pode faltar: 7

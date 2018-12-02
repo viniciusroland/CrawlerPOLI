@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3302 - Mecânica das Estruturas  I
+
+Em ingles 
+         Mechanics of Structures I 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		75 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina objetiva apresentar conteúdos importantes de mecânica das estruturas como: método dos delocamentos para barras, introdução a teoria da elasticidade tridimensional e a elasticidade plana, torção de Saint Venant, introdução ao método dos elementos finitos e à teoria das placas.
+
+ Voce pode faltar: 9

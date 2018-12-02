@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3441 - Arquitetura de Sistemas Embarcados
+
+Em ingles 
+         Architecture of Embedded Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer uma abordagem científica para a concepção de sistemas embarcados. 
+
+ Voce pode faltar: 7

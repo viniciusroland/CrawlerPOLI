@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2331 - Projeto de Mecanismos
+
+Em ingles 
+         Mechanism Design 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer ao aluno uma metodologia de análise e projeto de mecanismos, que são sistemas transformadores de movimento, empregados nas mais diversas máquinas, equipamentos industriais e veículos automotores. Além desta metodologia, prevê-se também o desenvolvimento e a utilização de ferramentas computacionais, tendo em vista a simulação destes sistemas mecânicos e verificação da conformidade do seu comportamento cinemático e dinâmico com as especificações de projeto.
+
+ Voce pode faltar: 7

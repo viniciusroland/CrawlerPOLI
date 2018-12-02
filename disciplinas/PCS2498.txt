@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2498 - Laboratório de Processadores II
+
+Em ingles 
+         Processors Laboratory II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudo de arquitetura de microprocessadores computadores presentes no mercado, seus blocos componentes e interfaces internas, envolvendo, padrões e vias de periféricos.
+
+ Voce pode faltar: 7

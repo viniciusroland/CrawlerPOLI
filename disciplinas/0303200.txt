@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Disciplinas Interdepartamentais da Escola Politécnica
+
+Disciplina: 0303200 - Probabilidade
+
+Em ingles 
+         Probability 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os conceitos de probabilidades, incluindo estimadores, distribuições e noções de simulação estocástica.
+
+ Voce pode faltar: 3

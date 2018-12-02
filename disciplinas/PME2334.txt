@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2334 - Mecânica dos Fluidos Aplicada a Dutos de Petróleo e Gás
+
+Em ingles 
+         Applied Fluid mechanics the Ducts of Oil and Gas 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Permitir o conhecimento dos mecanismos de escoamento de fluidos em dutos de petróleo e gás.
+
+ Voce pode faltar: 5

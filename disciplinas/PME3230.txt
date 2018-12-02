@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3230 - Mecânica dos Fluidos I
+
+Em ingles 
+         Fluid Mechanics I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos fundamentais para fluidos em repouso e em movimento. Desenvolver as equações fundamentais da mecânica dos fluidos e suas aplicações em escoamentos. Possibilitar aos alunos realizar medição de grandezas através de experiências que ilustrem aplicações fundamentais.
+
+ Voce pode faltar: 7

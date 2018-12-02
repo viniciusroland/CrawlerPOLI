@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2510 - Geradores e Turbinas a Vapor
+
+Em ingles 
+         Steam Generators and Turbines 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar aos alunos os principais tipos de geradores a vapor e turbinas e os aspectos de cálculo e destes equipamentos
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3301 - Introdução aos Sistemas de Potência
+
+Em ingles 
+         Introduction to Power Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O principal objetivo do curso é fornecer uma introdução às metodologias de análise de sistemas de potência: resolução de circuitos trifásicos equilibrados e desequilibrados, incluindo cálculo de redes em condição de curto-circuito.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3869 - Sistemas de Informação para Engenharia
+
+Em ingles 
+         Information Systems for Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina tem como objetivo apresentar as principais técnicas de Engenharia utilizadas em projetos de Sistemas de Informação (SI) que sejam aplicáveis a ambientes corporativos.
+
+ Voce pode faltar: 7

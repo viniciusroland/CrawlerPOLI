@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3113 - Modelos Elastoplásticos para Solos
+
+Em ingles 
+         Elastoplastic models for soils 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Estudar modelos constitutivos elastoplásticos para solos. Os modelos constitutivos são importantes na compreensão do comportamento dos solos e na análise de problemas geotécnicos complexos.
+
+ Voce pode faltar: 3

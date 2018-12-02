@@ -1,0 +1,30 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Transportes
+
+Disciplina: PTR3531 - Engenharia de Tráfego
+
+Em ingles 
+         Traffic Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Revisar os conceitos básicos da engenharia de tráfego em rodovias e vias urbanas.  
+Desenvolver aspectos teóricos e práticos necessários para a análise e controle de tráfego em rodovias (incluindo vias expressas) e vias urbanas (notadamente nas interseções em nível, semaforizadas ou não, e redes arteriais).
+Apresentar e aplicar métodos de análise e projeto de sinalização viária em rodovias e vias urbanas.  
+Apresentar e aplicar métodos de monitoração da operação viária, com atenção especial na segurança viária.  Discutir políticas de ação em Engenharia de Tráfego e as perspectivas de evolução.
+
+ Voce pode faltar: 7

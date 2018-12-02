@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3461 - Métodos Matriciais em Reconhecimento de Padrões
+
+Em ingles 
+         Matrix Methods in Pattern Recognition 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprendizado dos métodos matriciais mais relevantes em reconhecimento de padrões.
+
+ Voce pode faltar: 7

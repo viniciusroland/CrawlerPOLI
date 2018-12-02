@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Hidráulica e Ambiental
+
+Disciplina: PHA3305 - Hidráulica Geral II
+
+Em ingles 
+         General Hydraulics II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos teóricos e aplicações da engenharia hidráulica sobre escoamentos permanentes em pressão, instalações de recalque e máquinas hidráulicas, semelhança dinâmica, hidrometria e ações hidrodinâmicas.
+
+ Voce pode faltar: 7

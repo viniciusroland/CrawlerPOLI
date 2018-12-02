@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3416 - Instalações Propulsoras
+
+Em ingles 
+         Ship Propulsion Plants 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar um procedimento para o projeto da instalação propulsora de navios. Efetuar uma análise dos principais aspectos envolvidos na seleção da máquina principal de um navio com propulsão Diesel, bem como da integração motor propulsor casco e da provisão das funções de suporte para máquina principal. Examinar problemas vibratórios gerados pela máquina principal.
+
+ Voce pode faltar: 7

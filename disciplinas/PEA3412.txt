@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3412 - Proteção e Automação de Sistemas Elétricos de Potência I
+
+Em ingles 
+         Protection and Automation of Electric Power Systems I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo desta disciplina é possibilitar que o aluno adquira conhecimentos sobre os conceitos relacionados com o projeto e implantação dos modernos sistemas de proteção e automação de subestações de energia elétrica. Sendo assim, a disciplina aborda os princípios empregados na proteção dos principais equipamentos primários existentes nas subestações de energia elétrica, bem como os principais esquemas utilizados atualmente. Além disso, a disciplina aborda a evolução histórica e a arquitetura atual dos sistemas de automação e proteção de subestações de energia elétrica, além do protocolo de comunicação definido pela norma IEC 61850. Nesse contexto, espera-se que o aluno seja capaz de aplicar os conceitos de automação e parametrizar as principais funções de proteção de sistemas elétricos.
+
+ Voce pode faltar: 11

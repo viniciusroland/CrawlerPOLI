@@ -1,0 +1,29 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3549 - Design e Programação de Games
+
+Em ingles 
+         Game Design and Programming 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aquisição de conhecimentos como: características dos jogos; conceitos de game design, gameplay e experiência de usuário; organização de um jogo digital.
+Desenvolvimento de habilidades como: pensamento crítico; pensamento criativo; trabalho em equipe multidisciplinar; solução de problemas.
+Formação de competências como: concepção de propostas de jogos; documentação do design de um jogo; construção e avaliação de protótipos de jogos; desenvolvimento de jogos.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2433 - Projeto de Máquinas
+
+Em ingles 
+         Machine Design 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Desenvolver o projeto de uma máquina, integrando os conceitos vistos nas disciplinas anteriores, desde desenho técnico até seleção de materiais, passando por elementos de máquinas, processos de fabricação, metodologia do projeto e resistência dos materiais.
+
+ Voce pode faltar: 3

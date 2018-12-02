@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2729 - Projeto de Sistemas Mecatrônicos com Microprocessadores
+
+Em ingles 
+         Design of Mechatronic Systems with Microprocessors 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Dar os elementos básicos de projetos de sistemas mecatrônicos baseados em microprocessadores de maneira que os alunos possam executar projetos de hardware de microprocessadores que incluam aquisição de sinais, ativação de pontos de entradas e saídas digitais, acionamento de motores, solenóides, etc. O aluno deverá desenvolver um projeto completo durante o curso desde a especificação até a elaboração de diagramas lógicos e de programação básica de teste do sistema desenvolvido.
+
+ Voce pode faltar: 3

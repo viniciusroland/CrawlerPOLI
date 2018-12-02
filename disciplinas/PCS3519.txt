@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3519 - Aplicações e Tecnologias em Automação
+
+Em ingles 
+         Applications and Technologies in Automation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos de automação, arquitetura de sistemas de automação em diferentes áreas de aplicação, equipamentos e ferramentas. Estudo de sistemas reais de automação.
+
+ Voce pode faltar: 7

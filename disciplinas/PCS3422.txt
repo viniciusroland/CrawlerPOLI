@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3422 - Organização e Arquitetura de Computadores II
+
+Em ingles 
+         Computer Organization and Architecture II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos avançados de arquitetura de computadores e técnicas de projeto de elementos arquiteturais e processadores. Estudar os aspectos arquiteturais de suporte ao paralelismo em todas as suas formas, hierarquia de memórias avançadas, suporte ao sistema operacional, proteção de dados e virtualização. Entender e aplicar análise de desempenho, consumo de energia, custo e área.
+
+ Voce pode faltar: 7

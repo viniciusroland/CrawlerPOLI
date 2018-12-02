@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3509 - Laboratório de Automação e Proteção de Sistemas Elétricos e Industriais
+
+Em ingles 
+         Electric Power and Industrial Systems Automation and Protection Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo desta disciplina e possibilitar que o aluno se familiarize com a automação e proteção de sistemas elétricos de potência e com a aplicação e programação de controladores programáveis de automação de sistemas industriais. Nesse contexto, espera-se que o aluno seja capaz de aplicar os conceitos de automação e proteção em subestações, bem como aplicações típicas de células de manufatura.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3522 - Exploração de Óleo e Gás
+
+Em ingles 
+         Oil and Gas Exploration 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Os principais objetivos de aprendizagem deste curso introdutório são a apresentação das características de projeto de um sistemas de exploração de óleo e gás submarino. Os tópicos estudados envolvem as características que influenciam o desenvolvimento de campos submarinos, os requisitos e desafios para garantir os escoamentos dos fluidos envolvidos, a compreensão dos sistemas de distribuição, controle e energia da produção submarina, bem como dos componentes principais do arranjo submarino (gabarito estrutura principal, árvore de Natal, ...) e sistemas de ligação (umbilical, riser, oleodutos, etc.). Com o sistema físico submarino introduzido, o curso tem continuidade com a avaliação dos custos e aspectos de análise risco/confiabilidade. O curso ainda fornece uma visão geral dos procedimentos de instalação e embarcações relacionadas, finalizando com uma breve discussão das novas tendências e de mineração submarina.
+
+ Voce pode faltar: 7

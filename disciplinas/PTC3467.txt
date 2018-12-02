@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3467 - Introdução aos Algoritmos em Automação
+
+Em ingles 
+         Introduction to Algorithms for Automation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os algoritmos e os métodos heurísticos de otimização.
+
+ Voce pode faltar: 7

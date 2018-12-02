@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3572 - Dinâmica e Controle em Tempo Discreto
+
+Em ingles 
+         Discrete-Time Dynamics and Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Analisar equações de diferenças não lineares, com aplicações em projetos de sistemas de controle.
+
+ Voce pode faltar: 7

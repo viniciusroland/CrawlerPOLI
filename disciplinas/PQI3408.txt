@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI3408 - Simulação de Processos da Indústria Química
+
+Em ingles 
+         Process Simulation of the Chemical Industry 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O curso tem por objetivo introduzir o uso de ferramentas computacionais para a simulação e para projeto de equipamentos e processos da indústria química. Estas ferramentas estão cada vez mais presentes no dia a dia do engenheiro químico, porque elas melhoram a sua produtividade, devido ao volume e à precisão do trabalho que lhe permitem realizar. Pretende-se que os alunos entendam, além da utilização prática destes simuladores, o seu funcionamento e princípios de construção.
+
+ Voce pode faltar: 7

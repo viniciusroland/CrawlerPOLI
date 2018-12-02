@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Produção
+
+Disciplina: PRO2712 - Controle da Qualidade
+
+Em ingles 
+         Quality Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudar as principais técnicas e ferramentas para o controle e melhoria da qualidade e produtividade. Introduzir conceitos de experimentação industrial.
+
+ Voce pode faltar: 7

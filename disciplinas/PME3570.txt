@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3570 - Simulação e Modelagem de Sistemas Dinâmicos com MODELICA
+
+Em ingles 
+         Simulation and Modeling of Dynamic Systems with MODELICA 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprender e exercitar a simulação de sistemas dinâmicos com a linguagem de programação MODELICA.
+
+ Voce pode faltar: 7

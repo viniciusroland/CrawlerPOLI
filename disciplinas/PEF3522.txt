@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3522 - Ação do Vento nas Edificações
+
+Em ingles 
+         Wind Effect on Buildings 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		75 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir aos alunos de graduação conceitos básicos de aerodinâmica dentro do contexto da Engenharia do Vento e seus efeitos nas edificações civis com ênfase na NBR-6123. Três abordagens em nível introdutório são adotadas: (a) teórica a partir das equações da mecânica dos fluidos; (b) numérica, com exposição de alguns métodos computacionais para solução de problemas de escoamento e transporte e (c) experimental, com ensaios em túnel de vento.
+
+ Voce pode faltar: 9

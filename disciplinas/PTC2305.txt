@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2305 - Introdução a Processos Estocásticos
+
+Em ingles 
+         Introduction to Stochastic Processes 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir as bases do raciocínio probabilístico para aplicação em comunicações  e processamento de sinais e elementos do emprego de estatística em inferência..
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2701 - Análise de Confiabilidade Aplicada ao Projeto de Sistemas Mecânicos
+
+Em ingles 
+         Confiability Analysis Applied to Design of Mechanical Systems 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar ao aluno os conceitos fundamentais da confiabilidade, visando a utilização de ferramentas probabilísticas no desenvolvimentos de novos produtos e processos de fabricação.
+
+ Voce pode faltar: 3

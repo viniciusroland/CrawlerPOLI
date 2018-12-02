@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2673 - Filtragem Adaptativa e Aplicações
+
+Em ingles 
+         Adaptive Filtering and Applications. 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprender os fundamentos de sistemas adaptativos e aplicá-los para resolver problemas em engenharia.
+
+ Voce pode faltar: 7

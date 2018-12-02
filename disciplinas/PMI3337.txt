@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI3337 - Projeto de Poço
+
+Em ingles 
+         Well Design 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar ao aluno os principais parâmetros necessários para o projeto de um poço de petróleo: pressão de poros e pressão de fratura, incluindo métodos para estimar estas geopressões; determinar a profundidade de assentamento da sapata utilizando diferentes metodologias; cálculos para dimensionar as espessuras da parede de revestimento; cálculos para determinar a trajetória de poços direcionais ou horizontais.
+
+ Voce pode faltar: 3

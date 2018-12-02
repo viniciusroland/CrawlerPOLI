@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2055 - Segurança da Informação
+
+Em ingles 
+         Information Security 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo desta disciplina é apresentar ao aluno as principais questões ligadas a segurança da Informação em sistemas de computação e comunicação. Devem ser tratados tanto aspectos práticos como teóricos, porém maior ênfase deve ser dada às questões práticas onde se identificam casos e situações usualmente encontradas em sistemas reais. Baseado nas técnicas e mecanismos exigidos pela solução dos problemas de segurança, devem ser apresentados os principais conceitos teóricos que sustentam as soluções práticas de segurança da informação.
+
+ Voce pode faltar: 3

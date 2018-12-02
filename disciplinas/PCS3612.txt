@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3612 - Organização e Arquitetura de Computadores I
+
+Em ingles 
+         Computer Organization and Architecture I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os conceitos básicos de arquitetura de computadores e formas de analisar desempenho, custo e energia dos computadores. Estudar a organização e a arquitetura dos processadores, dos sistemas de memória e dos sistemas de entrada e saída utilizados nos computadores. Introduzir a organização avançada de computadores: pipeline, superescalares e multicore. Identificar as barreiras tecnológicas.
+
+ Voce pode faltar: 11

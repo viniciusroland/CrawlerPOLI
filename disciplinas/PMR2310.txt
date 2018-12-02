@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2310 - Microprocessadores Aplicados à Automação
+
+Em ingles 
+         Microprocessors in Automation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Dar noções sobre o que são microprocessadores e como funcionam e depois introduzir a programação de microprocessadores em um nível bem próximo do hardware, através de aulas expositivas e de laboratório onde os alunos terão contato com o controle dos elementos presentes em sistemas de automação industrial: atuadores, sensores e comunicação de dados.
+
+ Voce pode faltar: 7

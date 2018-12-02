@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3563 - Óptica Integrada e Dispositivos Ópticos
+
+Em ingles 
+         Integrated Optics and Optical Devices 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Proporcionar ao aluno os conhecimentos básicos sobre óptica integrada, guias de onda e dispositivos ópticos planares, tornando-o capaz de resolver problemas específicos modelados através destes. O curso é completado com noções de comunicações ópticas: PCM e multiplexação por comprimento de onda – WDM.
+
+ Voce pode faltar: 7

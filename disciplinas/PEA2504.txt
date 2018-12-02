@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2504 - Laboratório de Máquinas Elétricas
+
+Em ingles 
+         Electrical Machines Laboratory 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Familiarizar o aluno com normas e procedimentos dos ensaios mais representativos do comportamento do regime permanente e transitório das máquinas elétricas rotativas.
+
+ Voce pode faltar: 3

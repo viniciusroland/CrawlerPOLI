@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2521 - Qualidade e Regulação de Energia Elétrica
+
+Em ingles 
+         Power Quality and Regulation of Electrical Energy 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar e conceituar os principais fenômenos relativos à qualidade de energia elétrica, que levam em consideração a qualidade do atendimento (comercial), a qualidade do serviço (interrupções de fornecimento) e a qualidade do produto (forma de onda). Além disso, serão apresentadas a legislação, instrumentos e entidades reguladoras do setor energético brasileiro, discutindo as formas de funcionamento do setor energético, abordando as funções de agentes do sistema, como o Operador Nacional do Sistema Elétrico (ONS) e o Administrador do Mercado Atacadista de Energia (ASMAE).
+
+ Voce pode faltar: 7

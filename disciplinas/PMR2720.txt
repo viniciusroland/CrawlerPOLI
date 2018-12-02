@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2720 - Processos de Fabricação Mecânica - Desenvolvimento de Ferramentas, Moldes e Matrizes
+
+Em ingles 
+         Mechanical Manufacturing Processes - Design of Tools and Dies 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Este curso visa apresentar ao estudante conceitos de fabricação de ferramentas e matrizes para fabricação mecânica, de tal modo que sejam desenvolvidos de um modo sistemático com  o mínimo uso de abordagens de tentativas e erros, baseado no seu desenvolvimento auxiliado por  computador. Para tanto este curso busca oferecer um conhecimento das principais variáveis de um  processo de fabricação mecânica e suas interações. Revendo os métodos de análise do fluxo de  material e sua simulação em cada um dos processos, bem como o estado da arte da aplicação de técnicas computacionais e técnicas de prototipagem rápida bem como o seleção dos materiais para ferramentas.
+
+ Voce pode faltar: 3

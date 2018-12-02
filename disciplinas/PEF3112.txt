@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3112 - Mecânica do Contínuo
+
+Em ingles 
+         Continuum Mechanics 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Estudar fundamentos de Mecânica do Contínuo. A Mecânica do Contínuo é a base de importantes disciplinas do currículo de engenharia (Mecânica dos Fluidos, Mecânica dos Sólidos, Hidráulica, Resistência dos Materiais)
+
+ Voce pode faltar: 3

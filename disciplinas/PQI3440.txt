@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI3440 - Propriedades de Fluidos do Petróleo
+
+Em ingles 
+         Properties of the Petroleum Fluids 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar aos alunos os fundamentos termodinâmicos para interpretação e determinação das propriedades de fluido de petróleo. Desenvolver a aplicação dos diferentes métodos para análise cálculo destas propriedades.
+
+ Voce pode faltar: 7

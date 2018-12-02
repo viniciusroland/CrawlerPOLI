@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2058 - Engenharia de Informação
+
+Em ingles 
+         Information Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar ao aluno as principais técnicas e disciplinas de planejamento e gestão da área de sistemas de informação em ambientes corporativos.
+
+ Voce pode faltar: 7

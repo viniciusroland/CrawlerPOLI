@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Produção
+
+Disciplina: PRO3342 - Modelagem e Simulação de Sistemas de Produção
+
+Em ingles 
+         Modeling and Simulation of Production Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        O curso apresenta modelos e métodos analíticos e de simulação para o projeto, dimensionamento e operação de sistemas de produção. Os estudantes devem ser capazes de desenvolver e implantar sistemas de simulação, usando linguagem de programação (VBA, C, Python ou outra) ou simuladores (Arena, Promodel, Simul8 ou outro). Devem ser capazes também de compreender e aplicar heurísticas de busca simples para otimização de resultados da simulação.
+
+ Voce pode faltar: 11

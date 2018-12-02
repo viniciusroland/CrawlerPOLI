@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3584 - Análise de Falhas
+
+Em ingles 
+         Failure Analysis 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Familiarizar os alunos com as técnicas de análise de falha de componentes mecânicos em serviço, tais como ensaios destrutivos e não destrutivos, exames microscópicos ópticos e eletrônicos, entre outros. Apresentar os principais mecanismos de falhas de materiais e a sua prevenção. Mostrar que falhas de componentes podem ocorrer em todas as etapas, desde projeto, fabricação e operação.
+
+ Voce pode faltar: 3

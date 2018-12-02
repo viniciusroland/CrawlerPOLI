@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3452 - Projeto de Circuitos Integrados Digitais e Analógicos
+
+Em ingles 
+         Digital and Analog Integrated Circuits Design 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Propiciar aos alunos capacidade e habilidades na análise e resolução de problemas de projeto de circuitos digitais e analógicos baseados em fundamentos de projeto de circuitos integrados totalmente personalizados (full custom).
+
+ Voce pode faltar: 7

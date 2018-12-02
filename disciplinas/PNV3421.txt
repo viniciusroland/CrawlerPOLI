@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3421 - Processos Estocásticos
+
+Em ingles 
+         Stochastic Processes 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar aos alunos técnicas de análise de dados e princípios de Processos Estocásticos (Teoria de Filas e Simulação.
+
+ Voce pode faltar: 7

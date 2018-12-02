@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI3301 - Fenômenos de Transporte II
+
+Em ingles 
+         Transport Phenomena II 
+
+Credito Aula 
+        6
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Estudo dos mecanismos de transferência de energia e de seus modelos cinéticos. Análise da modelagem e equacionamento de processos e equipamentos em que ocorram trocas térmicas.
+
+ Voce pode faltar: 11

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Transportes
+
+Disciplina: PTR3321 - Projeto de Vias de Transporte
+
+Em ingles 
+         Design of Highways, Streets and Transit Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos, critérios e metodologias necessários ao desenvolvimento dos projetos geométrico e de terraplenagem de vias urbanas/rurais e vias integrantes de sistemas de transporte público de passageiros, bem como as suas principais interfaces com os demais estudos e projetos que integram o escopo de serviços necessários à implantação da infraestrutura de tais tipos de vias.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3440 - Modelos Probabilísticos
+
+Em ingles 
+         Probabilistic Models 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Equipar o aluno com as ferramentas de teoria de probabilidades e processos estocásticos para a construção de modelos estocásticos.
+
+ Voce pode faltar: 7

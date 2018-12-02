@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3380 - Modelagem de Sistemas Dinâmicos
+
+Em ingles 
+         Dynamical Systems Modelling 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Capacitar o aluno a desenvolver modelos físicos e matemáticos de sistemas dinâmicos complexos visando seu projeto, controle e análise.
+
+ Voce pode faltar: 7

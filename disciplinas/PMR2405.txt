@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2405 - Acionamentos para Mecatrônica
+
+Em ingles 
+         Driving Elements in Mechatronics 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Desenvolver conceitos, capacidade de análise e especificações de acionamentos, conversores e dispositivos de potência utilizados em automação de sistemas eletromecânicos.
+
+ Voce pode faltar: 3

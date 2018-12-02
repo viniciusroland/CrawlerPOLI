@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Construção Civil
+
+Disciplina: PCC0201 - Geometria Descritiva
+
+Em ingles 
+         Descriptive Geometry 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Compreender a teoria sobre as projeções e perceber as conseqüências da aplicação dela na obtenção de representações utilizadas habitualmente na comunicação de dados espaciais no ambiente técnico; Experimentar a aplicação da teoria das projeções em exercícios de complexidade variada. Isso se fará através dos usos dos métodos mais comumente utilizados ou os mais adaptados ao tipo de raciocínio e/ou habilidade desejada ao profissional de arquitetura; Desenvolver critérios de avaliação do método mais eficiente e vantajoso para conseguir produzir uma representação que comunique com a clareza adequada a solução de problemas geométrico-espaciais; Encontrar-se apto a desenvolver a sua capacidade de interpretação e de solução de problemas espaciais nas demais disciplinas do curso, usando métodos básicos e avançados.
+
+ Voce pode faltar: 3

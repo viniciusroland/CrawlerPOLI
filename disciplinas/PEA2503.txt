@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2503 - Laboratório de Qualidade de Energia
+
+Em ingles 
+         Electrical Energy Quality Laboratory 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Serão verificados experimentalmente os conceitos relativos à influência de cargas não lineares na rede de corrente alternada (C.A.), diagnóstico de problemas e soluções aplicáveis.
+
+ Voce pode faltar: 3

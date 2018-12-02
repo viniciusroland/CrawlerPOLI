@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT2304 - Modelos Matemáticos e Simulação
+
+Em ingles 
+         Mathematical Models and Simulation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Capacitar o aluno a formular modelos matemáticos de fenômenos e processos relevantes na Engenharia Metalúrgica e de Materiais com base em equações algébricas e diferenciais e fornecer ferramentas para a resolução destas equações.
+
+ Voce pode faltar: 7

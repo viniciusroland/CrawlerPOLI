@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3512 - Planejamento e Operações de Sistemas Logísticos
+
+Em ingles 
+         Planning and Operations of Logistic Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os principais conceitos de planejamento de sistemas de transporte, e as estratégias de modelagem empregadas nos diferentes níveis de planejamento. Apresentar modelos matemáticos e algoritmos (exatos e heurísticos) para diferentes tipos de problemas.
+
+ Voce pode faltar: 7

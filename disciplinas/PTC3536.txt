@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3536 - Bases para a Engenharia Neural
+
+Em ingles 
+         Bases for Neural Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina pretende fornecer fundamentos, tanto de fisiologia quanto de especificidades de engenharia e matemática, que sirvam como pontos de partida para estudos mais avançados na área de Engenharia Neural. Há uma mescla de ensinamentos de conceitos e apresentação de informações.
+
+ Voce pode faltar: 7

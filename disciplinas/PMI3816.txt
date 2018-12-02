@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI3816 - Aplicação de ROVs em Engenharia de Petróleo e de Minas
+
+Em ingles 
+         Application of ROVs to Petroleum and Mining Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina visa familiarizar os alunos sobre os conceitos básicos, os componentes principais e os tipos mais utilizados de ROVs (“Remotely Operated Vehicles”) nas indústrias de petróleo e de mineração. Os alunos terão oportunidade de conhecer aspectos teóricos e práticos da operação de ROVs para sua utilização de forma segura e eficiente. Ao final do curso, espera-se que os alunos entendam os desafios da operação de ROVs e possam atuar na interpretação das informações operacionais obtidas via ROVs.
+
+ Voce pode faltar: 7

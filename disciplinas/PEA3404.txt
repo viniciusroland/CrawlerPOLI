@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3404 - Máquinas Elétricas e seus Acionamentos
+
+Em ingles 
+         Electrical Machines and Drives 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprofundar conceitos associados ao comportamento das máquinas de corrente contínua e máquinas assíncronas ou de indução. Apresentar os principais métodos e processos de partida, variação de velocidade e controle de conjugado. Apresentar as topologias mais comuns de conversores baseados em eletrônica de potência e seu funcionamento. Introduzir os aspectos técnicos e econômicos da seleção e aplicação das máquinas elétricas e sua interação com as cargas mecânicas. 
+
+ Voce pode faltar: 7

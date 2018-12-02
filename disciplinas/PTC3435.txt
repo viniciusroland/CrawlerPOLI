@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3435 - Princípios de Instrumentação Biomédica
+
+Em ingles 
+         Principles of Biomedical Instrumentation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer noções de metrologia, sistemas de medição e instrumentação biomédica.
+
+ Voce pode faltar: 7

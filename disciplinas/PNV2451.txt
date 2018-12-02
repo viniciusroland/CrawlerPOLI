@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV2451 - Métodos de Otimização Aplicados a Sistemas de Engenharia
+
+Em ingles 
+         Optimization Methods Applied to Engineering Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Mostrar a importância de buscar uma solução ótima para um sistema de engenharia.Mostrar a necessidade da construção de modelo matemático para buscar solução ótima do sistema e estabelecer diretrizes básicas para a construção do modelo.Apresentar técnicas para encontrar solução ótima do modelo matemático.Discutir o emprego de métodos exatos e aproximados (heurísticas) para solução do modelo matemático.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2530 - Laboratório de Projeto de Automação e Controle I
+
+Em ingles 
+         Laboratory of Automation and Control Design I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Realizar o pré-projeto de formatura.
+
+ Voce pode faltar: 7

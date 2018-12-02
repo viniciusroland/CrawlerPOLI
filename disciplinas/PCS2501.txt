@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2501 - Projeto de Formatura I
+
+Em ingles 
+         Final Project I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Obtenção de conhecimentos práticos e habilidades associadas à concepção, detalhamento e planejamento de implementação de um projeto de formatura, envolvendo o projeto de hardware e/ou de software de sistemas. Exercício e consolidação das habilidades de trabalho em grupo.
+
+ Voce pode faltar: 7

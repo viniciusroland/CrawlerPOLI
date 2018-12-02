@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME2100 - Mecânica A
+
+Em ingles 
+         Mechanics A 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Desenvolver a compreensão da mecânica do corpo rígido com ênfase na cinemática e dinâmica do corpo rígido, sendo as aplicações voltadas preferencialmente à problemas no plano.
+
+ Voce pode faltar: 7

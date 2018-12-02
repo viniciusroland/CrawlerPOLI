@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI2403 - Análise de Processos da Indústria Química
+
+Em ingles 
+         Chemical Engineering Process Analysis 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O aluno deve estudar os aspectos fundamentais para modelar matematicamente um problema de Engenharia Química, usando ou não outros problemas similares, ser capaz de resolver este modelo, numericamente ou por outros métodos, e saber validar os resultados desta resolução com dados reais.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2410 - Engenharia de Software II
+
+Em ingles 
+         Software Engineering II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os principais conceitos sobre bancos de dados, metodologia de projeto, sistemas gerenciadores e integridade dos dados.
+
+ Voce pode faltar: 7

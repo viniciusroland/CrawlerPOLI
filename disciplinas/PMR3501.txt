@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR3501 - Engenharia de Precisão
+
+Em ingles 
+         Precision Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os princípios de engenharia de precisão, analisar componentes mecânicos, atuadores e sensores de posição do ponto de vista de resolução, precisão e acurácia, apresentar técnicas de análise e correção de erros geométricos em máquinas de precisão, discutir os métodos de medição de erros geométricos em máquinas utilizando interferometria laser, exercitar os conceitos de mecânica de precisão no projeto de máquinas. 
+
+ Voce pode faltar: 7

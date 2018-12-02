@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI3346 - Simulação de Reservatórios de Petróleo
+
+Em ingles 
+         Petroleum Reservoir Simulation 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        O curso fornece ao aluno os fundamentos da simulação de reservatórios de petróleo, habilitando-o a desenvolver ou utilizar conscientemente um simulador comercial. 
+
+ Voce pode faltar: 3

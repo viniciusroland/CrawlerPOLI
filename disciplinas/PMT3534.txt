@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT3534 - Energia Nuclear e Reatores Nucleares
+
+Em ingles 
+         Nuclear Power Reactors 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar aos alunos os conceitos básicos sobre a geração de energia nuclear e os principais tipos, características e componentes dos reatores nucleares de potência.
+
+ Voce pode faltar: 7

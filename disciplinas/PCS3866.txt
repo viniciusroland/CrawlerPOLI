@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3866 - Linguagens e Compiladores
+
+Em ingles 
+         Languages and Compilers 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Familiarização com os conceitos de linguagens de programação de alto nível e seus processadores. Técnicas de especificação, projeto, simulação, análise e implementação de componentes de compiladores para linguagens de alto nível imperativas.
+
+ Voce pode faltar: 7

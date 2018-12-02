@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3396 - Eletrotécnica Geral II
+
+Em ingles 
+         General Electrotechnics II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Habilitar o estudante a desenvolver projetos de instalações elétricas. Apresentar uma introdução ao eletromagnetismo e suas aplicações: transformadores e motores elétricos. Apresentar uma introdução à tarifação de energia elétrica.
+
+ Voce pode faltar: 7

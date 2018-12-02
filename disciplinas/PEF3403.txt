@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3403 - Estruturas de Concreto II
+
+Em ingles 
+         Concrete Structures II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir a prática do projeto de estruturas para sistemas estruturais de edifícios em concreto. Análise dos elementos estruturais submetidos às solicitações normais: na flexão composta normal e oblíqua, diagramas de interação, dimensionamento e detalhamento de pilares, modelos para a verificação da estabilidade local de pilares e da estabilidade global de edifícios. Verificação do Estado Limite de Serviço de deformação excessiva e fissuração de vigas e lajes. Estudo de elementos especiais: consolos, dentes Gerber, vigas parede, blocos e sapatas. Introdução ao Concreto Protendido.
+
+ Voce pode faltar: 7

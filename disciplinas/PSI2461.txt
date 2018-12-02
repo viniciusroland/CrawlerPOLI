@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2461 - Eletrônica de Controle Industrial
+
+Em ingles 
+         Industrial Electronic Control 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar ao aluno as relações entre a função de controle e a ação de medir. Apresentar a instrumentação disponível para medidas das diversas grandezas, a eletronica de condicionamento de sinais, sua transmissão para centros de controle. Planejar processos industriais disponibilizando a instrumentação.
+
+ Voce pode faltar: 7

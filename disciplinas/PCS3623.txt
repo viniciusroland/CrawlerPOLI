@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3623 - Banco de Dados I
+
+Em ingles 
+         Database I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os principais conceitos sobre bancos de dados: modelo relacional e modelagem de dados, SQL (Structured Query Language), componentes de um SGBD (Sistema Gerenciador de Bancos de Dados) e projeto de banco de dados.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3424 - Processamento Digital de Sinais
+
+Em ingles 
+         Digital Signal Processing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudar fundamentos da teoria de sinais e sistemas de tempo discreto e introduzir métodos e algoritmos largamente utilizados no processamento digital de sinais.
+
+ Voce pode faltar: 7

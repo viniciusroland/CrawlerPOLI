@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2553 - Projeto de Sistemas Integrados
+
+Em ingles 
+         Integrated System Design 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina apresenta os principais conceitos que fundamentam o projeto estruturado (projeto top-down) de sistemas digitais integrados hardware-software (conhecidos pela sigla SoC, do inglês system-on-chip) , focalizando seus principais componentes. São também apresentados os principais modelos computacionais que fundamentam as descrições de tais sistemas através de linguagens de alto nível.
+
+ Voce pode faltar: 7

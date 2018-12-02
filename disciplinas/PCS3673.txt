@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3673 - Interação Humano-Computador
+
+Em ingles 
+         Human Computer Interaction 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os conceitos de Interação Humano-Computador (IHC) e enfatizar a importância da experiência do usuário no projeto e operação de sistemas computacionais. Propiciar ao aluno o conhecimento sobre as teorias e os métodos para concepção, desenho, desenvolvimento e avaliação das interfaces com usuários. Desenvolver habilidades em técnicas e ferramentas usadas no ciclo de vida da IHC, em especial quanto à participação de usuários.
+
+ Voce pode faltar: 11

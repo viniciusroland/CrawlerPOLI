@@ -1,0 +1,30 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3641 - Métodos Experimentais para Validação de Sistemas Oceânicos
+
+Em ingles 
+         Experimental Method for Ocean System Validation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        4
+
+Carga Horaria Total 
+       		180 h 
+ 			
+			 
+
+Objetivo 
+        A presente disciplina apresenta as principais técnicas utilizadas para validar sistemas oceânicos para exploração do recursos de mar mostrando diferentes tipos de ferramentas experimentais físicos e computacionais como tanques físicos e modelos computacionais para verificar a segurança de sistemas oceânicos de grande porte.
+Atualmente, existem diferentes tipos de plataformas de exploração e produção de petróleo e gás e de captação de energias renováveis no mar de grandes dimensões. Para verificação do sistemas oceânicos, são utilizados tanques de provas físicos onde é capaz de reproduzir diferentes condições ambientais .
+Assim, a disciplina mostrará diversas técnicas de ensaios em tanque provas mostrando diferentes tipos de instrumentação para medir dinâmica, forças, pressão, etc. considerando as escalas apresentados. As leis de semelhança utilizadas para modelos reduzidos serão abordadas.
+O enfoque principal será dado a ensaios em ondas onde o aluno terá possibilidade de acompanhar todo o processo de ensaios de um sistema flutuante e medir os movimentos e comparar com estimativas teóricas/numéricas.
+
+ Voce pode faltar: 1

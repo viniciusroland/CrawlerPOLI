@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3635 - Laboratório Digital I
+
+Em ingles 
+         Digital Laboratory I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Desenvolvimento de projetos com circuitos digitais simples. Observação prática e montagem com dispositivos de eletrônica digital (FPGA e componentes discretos). Treinamento em depuração. Familiarização com instrumentação de bancada. Treinamento de trabalhos em grupo. Aprendizado dos processos de documentação de circuitos digitais.
+
+ Voce pode faltar: 7

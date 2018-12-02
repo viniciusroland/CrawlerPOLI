@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3853 - Laboratório de Engenharia de Software II
+
+Em ingles 
+         Laboratory of Software Engineering II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo da disciplina é exercitar técnicas avançadas de gestão e de desenvolvimento de software com arquitetura distribuída. Os alunos organizam-se em um time único para planejar, projetar, organizar, controlar e coordenar as atividades de desenvolvimento de um sistema de software, com características adequadas para aplicar os tópicos previstos nesse programa, e simular um ambiente corporativo de desenvolvimento.
+
+ Voce pode faltar: 7

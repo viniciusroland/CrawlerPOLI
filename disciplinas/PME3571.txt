@@ -1,0 +1,29 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3571 - Escoamentos Multifásicos em Dutos de Petróleo e Gás
+
+Em ingles 
+         Multiphase Flows in Oil and Gas Pipes 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        -	Apresentar conceitos fundamentais para transporte de óleo e gás em poços, tubulações e risers.
+-	Desenvolver as equações fundamentais e metodologias de cálculo para escoamento multifásico uni-dimensional.
+-	Mostrar aplicações à tecnologia de petróleo: curvas de gradiente de pressão, métodos artificiais de elevação, fenômenos em estado permanente e transiente, garantia do escoamento (flow assurance), intermitência severa (severe slugging).
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2433 - Eletrônica Analógica e Digital
+
+Em ingles 
+         Analog and Digital Electronics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer aos alunos dos cursos de Engenharia Mecânica uma introdução à eletrônica geral, que lhes permita compreender os princípios básicos de funcionamento dos equipamentos eletrônicos com que terá que lidar em seu cotidiano, tanto particular com profissional.
+
+ Voce pode faltar: 7

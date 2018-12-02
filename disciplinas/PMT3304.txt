@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT3304 - Modelos Matemáticos e Simulação
+
+Em ingles 
+         Mathematical Models and Simulation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Ao final do curso o aluno deverá ser capaz de formular as equações necessárias para modelar matematicamente as etapas envolvidas no processamento de materiais e implementar métodos analíticos e numéricos para solucionar as equações propostas.
+
+ Voce pode faltar: 7

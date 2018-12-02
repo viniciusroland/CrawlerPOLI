@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3380 - Laboratório de Eletrotécnica I
+
+Em ingles 
+         Electrotechnics Laboratory I 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Permitir a verificação experimental de conceitos fundamentais em eletricidade e eletrotécnica: corrente máxima suportada por condutores; operação e dimensionamento de dispositivos de proteção (fusíveis e disjuntores); medição e tarifação de energia elétrica; construção, especificação e operação de motores elétricos; automação de sistemas elétricos.
+
+ Voce pode faltar: 3

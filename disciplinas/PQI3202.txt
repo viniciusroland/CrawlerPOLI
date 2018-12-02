@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI3202 - Fenômenos de Transporte I
+
+Em ingles 
+         Transport Phenomena I 
+
+Credito Aula 
+        6
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Reconhecer as aplicações dos fenômenos de transporte em processos industriais. Distinguir a aplicação entre os balanços globais e diferenciais. Discernir modelos rigorosos e simplificados. Comparar teoria e fatos. Reconhecer analogias. Interpretar resultados experimentais.
+
+ Voce pode faltar: 11

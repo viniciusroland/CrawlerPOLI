@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3558 - Aeroacústica
+
+Em ingles 
+         Aeroacoustics 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Nesta disciplina os conceitos básicos envolvidos na geração de ruído aerodinâmico e seus efeitos na sociedade serão apresentados. Conceitos de geração e propagação sonora em escoamentos de jatos, superfícies hiper-sustentadoras e cavidades serão desenvolvidos na primeira parte do curso visando à caracterização das principais fontes ruidosas presentes em problemas reais de engenharia aeronáutica. Em seguida, conceitos básicos de dinâmica dos fluidos computacional em conjunto com a aplicação de analogias aeroacústicas voltadas à predição sonora serão apresentados. Serão abordadas noções de métodos de cálculo direto do som e as analogias aeroacústicas de Lighthill e Ffowcs Williams & Hawkings para a propagação sonora. A ênfase do curso é voltada para a aplicação de métodos de aeroacústica computacional para a predição de ruído aerodinâmico.
+
+ Voce pode faltar: 3

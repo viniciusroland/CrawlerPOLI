@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2031 - Laboratório de Processadores
+
+Em ingles 
+         Processors Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Obtenção de conhecimentos práticos e habilidades associadas ao projeto de hardware e software de sistemas baseados em microprocessadores e microcontroladores. Exercício e consolidação das habilidades de trabalho em grupo.
+
+ Voce pode faltar: 7

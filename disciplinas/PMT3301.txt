@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT3301 - Fundamentos de Cristalografia e Difração
+
+Em ingles 
+         Fundamentals of Crystallography and Diffraction 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		45 h 
+ 			
+			 
+
+Objetivo 
+        Ensinar o papel básico da cristalografia e da difração para a caracterização da estrutura atômica e da microestrutura de sólidos cristalinos e, também, para o desenvolvimento de novos materiais. Conceitos de simetria são utilizados para descrever a geometria da estrutura cristalina dos sólidos.  Fundamentos físicos e geométricos do fenômeno de difração são apresentados e a instrumentação relevante para as técnicas de caracterização são consideradas.  Damos atenção particular à difratometria de raios-X, mas outras técnicas de caracterização também são abordadas.
+
+ Voce pode faltar: 5

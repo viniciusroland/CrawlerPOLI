@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2722 - Projeto e Fabricação de Sistemas Microeletromecânicos (mems)
+
+Em ingles 
+         Design and Manufacturing of Microelectromechanical Systems (mems) 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os conceitos de sistemas microeletromecânicos (MEMS) aplicados à Engenharia Mecatrônica, monstrando as suas aplicações, conceitos básicos de fabricação, modelagem e projeto usando ferramentas computacionais modernas. Dessa forma, pretende-se dar uma visão genérica de forma a introduzir o tema entre os alunos de pós-graduação.
+
+ Voce pode faltar: 3

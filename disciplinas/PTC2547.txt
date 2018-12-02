@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2547 - Princípios de Televisão Digital
+
+Em ingles 
+         Principles of Digital Television 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Proporcionar conceitos básicos de Engenharia em sistemas de Vídeo e Televisão, abrangendo desde os fundamentos de percepção visual e auditiva e dos sistemas tradicionais de televisão analógica, até os processos de codificação e transmissão digital, que estão sendo considerados para implantação futura dos serviços de TV Digital e de Alta Definição.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3592 - Projeto de Formatura II
+
+Em ingles 
+         Capstone Design Project II 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        2
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Orientar os alunos estimulando análise, síntese e habilidades para implementar a solução do problema específico da proposta elaborada e aprovada na disciplina PSI3591 (Projeto de Formatura I) na execução de um projeto de engenharia em Eletrônica e Sistemas Eletrônicos.
+
+ Voce pode faltar: 11

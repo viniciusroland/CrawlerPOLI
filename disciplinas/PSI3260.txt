@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3260 - Aplicações de Álgebra Linear
+
+Em ingles 
+         Applications of Linear Algebra 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        O curso pretende mostrar aplicações de álgebra linear em engenharia, propondo problemas que os alunos devem solucionar usando ferramentas e conceitos de álgebra linear e programação em Matlab.
+
+ Voce pode faltar: 3

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Eletrônica
+
+Disciplina: PEE0667 - Introdução aos Algorítmos em Automação
+
+Em ingles 
+         Introduction to Algorithms in Automation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        ok
+
+ Voce pode faltar: 7

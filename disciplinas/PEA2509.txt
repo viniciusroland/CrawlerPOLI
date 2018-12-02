@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2509 - Laboratório de Automação de Sistemas Elétricos
+
+Em ingles 
+         Electrical Systems Automation Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Familiarizar o aluno com a aplicação e a programação de CLPs para a automação de sistemas elétricos. Aplicar os conceitos de ajustes de controladores PID. Implementar a integração de CLP, medidores e relés  digitais em um sistema supervisório de uma planta de cogeração didática. Desenvolver algumas telas de IHM para esse sistema de automação didático
+
+ Voce pode faltar: 7

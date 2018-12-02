@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3361 - Introdução ao Processamento Digital de Sinais
+
+Em ingles 
+         Introduction to Digital Signal Processing 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer a base teórica mínima para o processamento em tempo discreto de sinais e, usando ferramentas computacionais, explorar aplicações concretas dos conceitos teóricos.
+
+ Voce pode faltar: 3

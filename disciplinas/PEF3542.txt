@@ -1,0 +1,38 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3542 - Análise Limite em Mecânica das Estruturas
+
+Em ingles 
+         Limit analysis in Structural Mechanics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Conhecimentos a serem assimilados
+Programação linear.
+Métodos de análise limite em estruturas reticuladas planas.
+Estudos de caso.
+Habilidades a serem desenvolvidas
+Agilidade para aplicar métodos típicos de programação linerar em estruturas reticuladas planas.
+Capacidade de interpretar procedimentos de análise estrutural e geotécnica relacionados com análise limite.
+Agilidade na utilização de sistemas computacionais de programação linear
+Valores e atitudes a serem incorporados
+A ampliação de conhecimento básico para a formação do engenheiro.
+Ampliação da capacidade de análise e síntese em estudos de caso
+Responsabilidade e ética profissional e social.
+
+ Voce pode faltar: 7

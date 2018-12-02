@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3471 - Práticas de Projeto de Sistemas de Controle
+
+Em ingles 
+         Control Systems Design Practice 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo da disciplina é propor ao aluno questões práticas de projeto de sistemas de controle.
+
+ Voce pode faltar: 11

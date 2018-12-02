@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI3342 - Automação Fluidomecânica Aplicada à Engenharia de Petróleo
+
+Em ingles 
+         Fluid-mechanic Automation Applied to Petroleum Industries 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Introdução de conceitos de automação fluidomecânica baseados em circuitos hidráulicos e pneumáticos.
+
+ Voce pode faltar: 3

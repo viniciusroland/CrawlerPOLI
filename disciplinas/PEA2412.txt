@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2412 - Automação de Sistemas Elétricos de Potência
+
+Em ingles 
+         Electric Power System Automation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentam-se as formas de aplicação dos sistemas digitais para automação da geração, transmissão e distribuição de energia elétrica. Ênfase especial é dada às funções a serem automatizadas em  cada um desses sub-sistemas da rede elétrica de potência. Discutem-se os conceitos de redes e protocolos comumente empregados na automação dos sistemas de potência.
+
+ Voce pode faltar: 7

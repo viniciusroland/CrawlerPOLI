@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3516 - Modelagem, Simulação e Otimização Computacional na Engenharia Estrutural
+
+Em ingles 
+         Computational Modeling, Simulation and Optimization in Structural Engineering 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Prover aos alunos de engenharia conceitos básicos sobre a modelagem, simulação e otimização com o Método dos Elementos Finitos.
+
+ Voce pode faltar: 7

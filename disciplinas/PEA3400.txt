@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3400 - Máquinas Elétricas I
+
+Em ingles 
+         Electrical Machines I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprofundar conceitos associados ao comportamento de transformadores de potência mono e trifásicos, com carregamento equilibrado e desequilibrado. Aprofundar também os conceitos de máquinas elétricas rotativas do tipo síncrono,  em regime permanente e transitório.
+
+ Voce pode faltar: 7

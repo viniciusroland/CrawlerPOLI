@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI2432 - Projeto e Implementação de Filtros Digitais
+
+Em ingles 
+         Design and Implementation of Digital Filters 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Aprender técnicas de projeto de filtros digitais e exercitá-las na síntese de filtros com especificações usadas em aplicações de interesse prático. A compreensão dos algoritmos de projeto requer a aplicação dos conceitos de sistemas e de transformadas adquiridos anteriormente e contribuirá para a sedimentação desses conceitos. Por outro lado, esta disciplina fornece os conceitos básicos para a realização de filtros e modelos adaptativos, que serão abordados em disciplinas mais avançadas do curso.
+
+ Voce pode faltar: 7

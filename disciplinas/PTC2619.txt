@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2619 - Laboratório de Automação
+
+Em ingles 
+         Automation Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Realizar as experiências relativas ao projeto de sistemas digitais de controle.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2410 - Sistemas de Potência I
+
+Em ingles 
+         Power  Systems I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer os conceitos básicos para estudos de sistemas de potência, incluindo a modelagem dos componentes da rede elétrica. Estudar os problema de curto circuito e o de proteção em sistemas elétricos de potência.
+
+ Voce pode faltar: 7

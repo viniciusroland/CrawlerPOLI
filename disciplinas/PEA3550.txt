@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3550 - Acionamentos Elétricos Industriais
+
+Em ingles 
+         Industrial Electric Drives 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Propiciar ao aluno informações e conhecimentos relacionados aos acionamentos eletromecânicos utilizados na indústria. Apresentar uma abordagem dos principais aspectos mecânicos das cargas industriais usuais, seu funcionamento, suas características externas e regimes de trabalho permitindo uma adequada seleção do motor elétrico para o seu acionamento. Introduzir os conceitos de coordenação entre as características da carga e do motor, e o dimensionamento básico desse último, levando em conta o regime de serviço, temperatura ambiente e transitórios de partida e frenagem.  Dotar o aluno de condições mínimas para eleger e especificar motores elétricos de aplicação industrial.
+
+ Voce pode faltar: 7

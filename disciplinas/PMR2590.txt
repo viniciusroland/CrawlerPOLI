@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2590 - Redes de Dados e Integração da Manufatura Por Computador
+
+Em ingles 
+         Computer Integrated Manufacturing 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Assimilação dos conceitos fundamentais de funções de empresa, automatização de sistemas produtivos e integração de sistemas.                                                                                                                                                                                             Enterprise functions, automation and systems integration coaching are the goals of this discipline.
+
+ Voce pode faltar: 7

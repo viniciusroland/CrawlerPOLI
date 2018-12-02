@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA2406 - Laboratório de Sistemas de Potência
+
+Em ingles 
+         Power Systems Laboratory 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Realizar, no laboratório, estudos de sistemas elétricos de potência, através de experiências utilizando modelos reduzidos da rede elétrica e através de modelos computacionais, que complementam as teorias vistas nas disciplinas de Sistemas de Potência (I e II).
+
+ Voce pode faltar: 3

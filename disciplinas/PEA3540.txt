@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3540 - Proteção e Automação de Sistemas Elétricos de Potência II
+
+Em ingles 
+         Protection and Automation of Electric Power Systems II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        O objetivo desta disciplina é possibilitar que o aluno adquira conhecimentos sobre os conceitos relacionados com o projeto e implantação dos modernos sistemas de proteção e automação de subestações de energia elétrica que são necessários para o controle e operação segura das redes elétricas de potência. O enfoque desta disciplina é dado às instalações de geração, aos sistemas de supervisão e controle e centros de operação do sistema interligado nacional, bem como nas modernas redes inteligentes de distribuição de energia elétrica. Nesse contexto, espera-se que o aluno seja capaz de aplicar esses conceitos para a automação e proteção de sistemas elétricos modernos.
+
+ Voce pode faltar: 7

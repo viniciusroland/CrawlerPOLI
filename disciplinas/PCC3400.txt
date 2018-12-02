@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Construção Civil
+
+Disciplina: PCC3400 - Modelagem da Informação da Construção Aplicada ao Projeto de Sistemas Prediais
+
+Em ingles 
+         Building Information Modeling Applied to Building Systems 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		75 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer as bases teóricas e práticas para o futuro profissional e pesquisador que desenvolverá atividades relacionadas ao projeto de Sistemas Prediais apoiados no conceito BIM
+
+ Voce pode faltar: 9

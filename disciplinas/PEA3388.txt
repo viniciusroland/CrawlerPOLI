@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Energia e Automação Elétricas
+
+Disciplina: PEA3388 - Eletricidade Geral IV
+
+Em ingles 
+         General Electricity IV 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Habilitar o estudante a analisar circuitos elétricos em corrente alternada (monofásicos e trifásicos). Apresentar uma introdução ao eletromagnetismo e suas aplicações: transformadores e motores elétricos. Apresentar uma introdução aos temas de dimensionamento de condutores e dispositivos de proteção, projeto de instalações elétricas, proteção contra descargas atmosféricas e tarifação de energia elétrica.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3451 - Projeto de Circuitos Lógicos Integrados
+
+Em ingles 
+         Integrated Logic Circuits Design 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Habilitar estudantes na adoção de fluxo de projeto de circuitos lógicos integrados a partir de linguagem de descrição de hardware VHDL-RTL, que descreve o comportamento do circuito no nível de transferência entre registradores (descrição de entrada dos modernos ambientes de síntese automática de circuitos integrados). Por meio do uso de ferramentas de síntese lógica e de leiaute, duas alternativas para a implementação destes circuitos são exploradas: por dispositivos programáveis em bancadas (FPGAs) e por circuitos integrados a serem fabricados (ASICs).
+
+ Voce pode faltar: 7

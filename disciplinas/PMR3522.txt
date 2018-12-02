@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR3522 - Introdução ao CAD/CAM
+
+Em ingles 
+         Introduction to CAD/CAM 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Ensinar aos alunos os princípios fundamentais sobre integração CAD/CAM. De modo a utilizar efetivamente sistemas disponíveis no mercado, o engenheiro necessita entender o ambiente computacional e os princípios que regem o sistema. Possuindo os conhecimentos fundamentais, o estudante poderá aprender rapidamente um sistema específico e utilizá-lo em sua máxima capacidade. 
+
+ Voce pode faltar: 7

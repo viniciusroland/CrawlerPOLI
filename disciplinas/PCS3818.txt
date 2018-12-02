@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3818 - Engenharia de Sistema de Computação
+
+Em ingles 
+         Computer System Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos básicos, métodos, modelos e técnicas específicas da Engenharia de Sistema de Computação. Aplicar estes conhecimentos na concepção de um sistema computacional. 
+
+ Voce pode faltar: 7

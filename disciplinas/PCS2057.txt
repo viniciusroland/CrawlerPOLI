@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2057 - Multimídia e Hipermídia
+
+Em ingles 
+         Multimedia and Hypermedia 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar as tecnologias básicas necessárias ao desenvolvimento de sistemas de multimídia/hipermídia e realidade virtual; analisar as diversas áreas de aplicações, bem como técnicas, metodologias e ferramentas de desenvolvimento; discutir o estado da arte, perspectivas de evolução, e desafios a serem vencidos; propiciar o contato prático com os aspectos relacionados à criação e produção de sistemas interativos avançados.
+
+ Voce pode faltar: 7

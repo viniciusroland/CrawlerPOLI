@@ -1,0 +1,33 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3516 - Evolução Tecnológica e Histórica dos Sistemas Termo Fluido Mecânicos
+
+Em ingles 
+         Technological and Historical Evolution of the Thermofluid Mechanics Systems 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        2
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Capacitar o aluno a:
+
+1) Projetar experimentos simples para análise de desempenho de equipamentos e processos;
+2) Aplicar os conceitos de incerteza, exatidão, precisão, resolução e sensibilidade na seleção de sensores e análise de resultados experimentais;
+3) Preparar simulações computacionais e validar o modelo utilizando resultados experimentais;  
+4) Preparar apresentações orais e artigos técnicos em torno de uma tese dentro do contexto técnico (energia e fluidos) e histórico;
+5) Avaliar o contexto político, social e cultural do desenvolvimento de uma tecnologia e como está impacta a sociedade e o meio ambiente.
+
+ Voce pode faltar: 11

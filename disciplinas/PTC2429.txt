@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2429 - Laboratório de Circuitos de Comunicações
+
+Em ingles 
+         Laboratory of Communications Circuits 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Familiarização com circuitos básicos utilizados em sistemas de telecomunicação; caracterização, medidas e elementos de projeto de sistemas de comunicação elementares.   
+
+ Voce pode faltar: 7

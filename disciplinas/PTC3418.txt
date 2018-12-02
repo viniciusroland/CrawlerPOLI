@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3418 - Laboratório de Automação
+
+Em ingles 
+         Automation Laboratory 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Realizar experimentos relativos ao projeto de sistemas digitais de controle e introdução ao uso de controladores lógicos.
+
+ Voce pode faltar: 11

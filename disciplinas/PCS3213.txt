@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3213 - Engenharia de Software
+
+Em ingles 
+         Software Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir ao aluno os conceitos de desenvolvimento de software. Apresentar as fases de análise, projeto, programação e testes. Apresentar os conceitos da técnica orientada a objetos e exercitar a modelagem de software. Apresentar noções da técnica estruturada. Apresentar noções de aquisição e manutenção de sistemas de software.
+
+ Voce pode faltar: 7

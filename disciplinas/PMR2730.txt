@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR2730 - Sistemas Computacionais para Automação
+
+Em ingles 
+         Computational Systems for Automation 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar uma visão geral da organização de computadores e sistemas operacionais com especial ênfase para sistemas de computação voltados para a área de automação.
+
+ Voce pode faltar: 3

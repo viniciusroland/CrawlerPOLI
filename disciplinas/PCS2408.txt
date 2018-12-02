@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS2408 - Fundamentos de Engenharia de Software
+
+Em ingles 
+         Foundations of Software Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir ao aluno os conceitos de desenvolvimento e de manutenção de software, através dos modelos de processo de software (análise, projeto, programação e testes) e das principais técnicas de desenvolvimento. Explorar o uso de normas e padrões para a elaboração de documentos de software.
+
+ Voce pode faltar: 7

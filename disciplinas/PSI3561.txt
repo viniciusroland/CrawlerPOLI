@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng de Sistemas Eletrônicos
+
+Disciplina: PSI3561 - Eletrônica Automotiva
+
+Em ingles 
+         Automotive Electronics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Proporcionar uma visão sistêmica do funcionamento dos sensores, atuadores, unidades eletrônicas e a rede de dados de um automóvel aos alunos de engenharia.
+
+ Voce pode faltar: 7

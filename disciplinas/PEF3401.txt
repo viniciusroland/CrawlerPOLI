@@ -1,0 +1,34 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3401 - Mecânica das Estruturas II
+
+Em ingles 
+         Structural Mechanics II 
+
+Credito Aula 
+        3
+
+Creditos Trabalho 
+        1
+
+Carga Horaria Total 
+       		75 h 
+ 			
+			 
+
+Objetivo 
+        Conhecimentos a serem assimilados
+Métodos gerais de análise estrutural baseados no teorema de esforços virtuais. Aplicação à teoria de barras de Bernoulli-Euler. Análise dinâmica das estruturas (noções). Elastoplasticidade ideal (noções). Critérios de resistência (noções). Métodos clássicos de análise limite de estruturas reticuladas em regime elastoplástico ideal (noções).
+
+Habilidades a serem desenvolvidas
+Agilidade para aplicar os teoremas de esforços virtuais à análise de estruturas reticuladas. Capacidade de realizar modelagem matemática e usar ferramentas computacionais, em geral, para solução de problemas de mecânica das estruturas. Capacidade de reconhecer as características dos sistemas e subsistemas estruturais quanto a seu desempenho e comportamento estático ou dinâmico. Capacidade de reconhecer cenários críticos do sistema estrutural. Agilidade na resolução analítica ou numérica de problemas fundamentais de dinâmica das estruturas. Agilidade na resolução analítica ou numérica de problemas fundamentais de análise limite de estruturas reticuladas. Agilidade na modelagem de problemas de mecânica das estruturas, utilizando programas de análise estrutural.
+
+Valores e atitudes a serem incorporados
+Percepção da importância das disciplinas de ciências da engenharia na formação do engenheiro. Apreensão do caráter multidisciplinar da mecânica das estruturas e seu papel central na engenharia. Visão crítica dos métodos de análise estrutural quanto às hipóteses assumidas e resultados obtidos. Responsabilidade e ética profissional e social.
+
+ Voce pode faltar: 9

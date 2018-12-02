@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC3450 - Redes de Comunicação
+
+Em ingles 
+         Communication Networks 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Estudar as redes de comunicação de dados e de transporte multimídia, com ênfase nas baseadas nos protocolos TCP/IP. A disciplina aborda princípios e estruturas básicos gerais de redes de comunicações, usando a Internet como forma de exemplificar e tornar mais palpável a aplicação desses conceitos. Utilizam-se aplicativos reais como exemplo sempre que possível, sem perder de vista conceitos mais gerais.
+
+ Voce pode faltar: 7

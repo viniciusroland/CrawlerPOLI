@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2584 - Planejamento de Sistemas de Comunicações
+
+Em ingles 
+         Communication Systems Design 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar sistemas de comunicação digital de radio-visibilidade terrestres e por satélite. Apresentar, neste âmbito, a utilização de conceitos e técnicas relacionados a objetivos de desempenho, modulação digital, cálculo de ruído e propagação.  
+
+ Voce pode faltar: 7

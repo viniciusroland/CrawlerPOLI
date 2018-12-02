@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2528 - Laboratório de Comunicações: Projeto de Formatura
+
+Em ingles 
+         Communications Laboratory: Graduation Project 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Nesta disciplina os alunos realizarão a parte prática dos projetos escolhidos no semestre anterior (na disciplina PTC2527).  O tema do projeto de formatura é escolhido pelos alunos, em acordo com o orientador, relacionado com a área de Telecomunicações; usualmente constitui-se de um projeto de sistema de comunicações, ou implementação de um equipamento, subsistema ou circuito eletrônico; ou ainda o desenvolvimento de programas de computador que executem funções relevantes para a área de Telecomunicações.Os trabalhos são realizados por grupos de 2 ou 3 alunos, geralmente, sob orientação de professores do Departamento. Como resultado final, serão avaliados, entre outros itens, a complexidade do tema adotado, a aderência dos resultados obtidos em relação à proposta inicial, a qualidade e abrangência da documentação apresentada, as medidas efetuadas para caracterização do produto final ou seus componentes, bem como o esforço individual dos elementos do grupo durante a execução do projeto e sua participação nas demonstrações e apresentação final.
+
+ Voce pode faltar: 7

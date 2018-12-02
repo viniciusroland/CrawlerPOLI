@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF3528 - Ferramentas Computacionais na Mecânica das Estruturas: Criação e Concepção
+
+Em ingles 
+         Computational Tools in the Mechanics of Structures: Creation and Concept 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer aos alunos de graduação uma visão e aplicação prática da mecânica computacional para a análise de estruturas mediante seu contato com os conceitos teóricos da modelagem física do problema em conjunto com sua efetiva modelagem computacional com o uso de métodos matemáticos clássicos. Permitir que os alunos entendam como isso é desenvolvido pelo mercado e quais ferramentas utilizam esses conceitos.
+
+ Voce pode faltar: 3

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Estruturas e Geotécnica
+
+Disciplina: PEF2302 - Mecânica das Estruturas I
+
+Em ingles 
+         Mechanics of Structures I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        A disciplina propõe-se a sistematizar a análise estrutural pelo método dos deslocamentos, introduzindo as técnicas de cálculo por computadores. Inicialmente, para estruturas de barras, desenvolve-se a análise matricial de estruturas. Para o estudo de estruturas mais complexas, faz-se necessário apresentar, de forma introdutória, a teoria da elasticidade. Somente então será introduzido o método dos elementos finitos. A Teoria de Kirchhoff para placas delgadas será apresentada, bem como seu modelo discretizado pelo método dos elementos finitos, tanto no caso da análise matricial quanto no método dos elementos finitos se utilizará da formulação via trabalhos virtuais, daí ser este assunto o primeiro tópico do programa. A disciplina propõe-se, também, a discutir a modelagem de estruturas, isto é,  a construção dos modelos discretizados (de barras ou elementos finitos) e, sobretudo, a interpretação dos resultados da análise automatizada. Sem esta preocupação, a análise estrutural corre risco de ser inadequadamente compreendida como uma tarefa que pode ser toda automatizada, sem requerer do engenheiro conhecimentos profundos de teoria das estruturas.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Telecomunicações e Controle
+
+Disciplina: PTC2411 - Sistemas de Controle
+
+Em ingles 
+         Control Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar os conceitos a respeito de engenharia de controle, com ênfase no uso das ferramentas computacionais para análise e projeto.
+
+ Voce pode faltar: 7

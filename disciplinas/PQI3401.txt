@@ -1,0 +1,28 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Química
+
+Disciplina: PQI3401 - Engenharia de Reações Químicas II
+
+Em ingles 
+         Chemical Reactor Engineering II 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir, desenvolver e aplicar os conceitos da disciplina ao dimensionamento e análise de reatores químicos ideais e reais, envolvendo processos catalíticos heterogêneos e processos de polimerização.
+Desenvolver nos alunos a capacidade de aplicar estes conceitos na solução de problemas relacionados ao dimensionamento e análise de reatores químicos.
+
+ Voce pode faltar: 7

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Metalúrgica e Materiais
+
+Disciplina: PMT3540 - Materiais Metálicos e Radiação
+
+Em ingles 
+         Metallic Materials and Radiation 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar aos alunos os conceitos fundamentais sobre a formação e a difusão de defeitos puntiformes em materiais metálicos sob irradiação, bem como os efeitos da irradiação sobre a estabilidade de fases e as propriedades mecânicas e químicas dos materiais.
+
+ Voce pode faltar: 7

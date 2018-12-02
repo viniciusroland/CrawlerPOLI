@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Naval e Oceânica
+
+Disciplina: PNV3322 - Mecânica de Estruturas Navais e Oceânicas I
+
+Em ingles 
+         Mechanics of Naval and Ocean Estructures I 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introduzir os fundamentos de mecânica estrutural aplicados à análise e projeto de navios e estruturas oceânicas com particular ênfase sobre a análise da resistência longitudinal e transversal de navios.
+
+ Voce pode faltar: 7

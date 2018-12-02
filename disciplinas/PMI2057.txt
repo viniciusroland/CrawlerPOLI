@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Minas e de Petróleo
+
+Disciplina: PMI2057 - Instrumentação e Controle de Processos em Usinas de Concentração de Minérios
+
+Em ingles 
+         Instrumentation and Process Control in Mineral Beneficiation 
+
+Credito Aula 
+        2
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		30 h 
+ 			
+			 
+
+Objetivo 
+        Apresentar conceitos e fundamentos de instrumentação e controle convencional e de técnicas de monitoração, controle e computação de operações/processos industriais de tratamento de minérios e configurações de controle de usinas de tratamento de minérios
+
+ Voce pode faltar: 3

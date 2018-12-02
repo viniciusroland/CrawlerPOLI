@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR3305 - Sistemas a Eventos Discretos
+
+Em ingles 
+         Discrete Event Systems 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Assimilação dos conceitos fundamentais de sistemas sequenciais, sistemas a eventos discretos, simulação discreta e tecnologia para o projeto de sistemas de controle e automação como: controladores programáveis, linguagens de programação de controladores e metodologia de especificação das estratégias de controle.
+
+ Voce pode faltar: 7

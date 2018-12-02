@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Eng Mecatrônica Sist Mecânicos
+
+Disciplina: PMR3303 - Eletrônica Digital para Mecatrônica
+
+Em ingles 
+         Digital Electronics for Mechatronics 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Introdução à eletrônica digital com ênfase em aplicações em sistemas mecatrônicos. Habilitação em análise de circuitos, projeto de circuitos e interpretação de literatura técnica da área.
+
+ Voce pode faltar: 7
