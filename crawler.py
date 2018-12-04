@@ -8,7 +8,7 @@ def getDisciplina(sigla, minutos_de_aula):
     creditos = ['Credito Aula', 'Creditos Trabalho', 'Carga Horaria Total']
     nomes = ['Instituto', 'Curso', '', 'Em ingles']
     if(sigla):
-
+        #url do jupiter com as informações da disciplina em questao
         url = "https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=" + sigla  + "&nomdis="  
         try:
             dados = requests.get(url)
@@ -16,6 +16,7 @@ def getDisciplina(sigla, minutos_de_aula):
             return None
 
     texto = dados.text
+    #lib que varre o source-code da pagina e pega as infos
     soup = BeautifulSoup(texto, features="html.parser")
     contador = 0
     for span in soup.findAll('span', {'class' : 'txt_arial_10pt_black'}):
@@ -30,7 +31,7 @@ def getDisciplina(sigla, minutos_de_aula):
     contador = 0
     dicionario['creditos'] = {}
     for span in soup.findAll('span', {'class' : 'txt_arial_8pt_gray'}):
-        if contador < 3:
+            if contador < 3:
             textcontent = span.string
             dicionario['creditos'][creditos[contador]] = str(textcontent).rstrip('\r\n\t')
         if contador == 5:
@@ -41,7 +42,8 @@ def getDisciplina(sigla, minutos_de_aula):
         contador += 1
 
     
-    arquivo = open("disciplinas/"+ sigla +".txt", "w+")
+    #salvando arquivo com as informações num .txt na pasta disciplinas
+    arquivo = open("disciplinas/" + sigla + ".txt", "w+")
 
     for key in dicionario:
         if key == 'creditos':
@@ -67,8 +69,8 @@ def getDisciplina(sigla, minutos_de_aula):
             pass
 
     carga_total = 10 * carga_[0] + carga_[1]
-    #carga_total = int(dicionario['creditos']['Carga Horaria Total']) 
     numero_de_aulas = carga_total * 60 / int(minutos_de_aula)
+    #calculando 30% de falta que pode ter
     faltas = numero_de_aulas * 0.3
     arquivo.write('\n Voce pode faltar: %s' % int(faltas - 1))
     return faltas
@@ -81,7 +83,8 @@ minutos_de_aula = input("Digite a duracao da aula em minutos: ")
 faltas = getDisciplina(sigla, minutos_de_aula)
 if faltas != None:
 
-    print ('\nVoce pode faltar: %s' % int(faltas - 1))
+    #tirando 1 das faltas só pra ficar safe :)
+    print('\nVoce pode faltar: %s' % int(faltas - 1))
     print('Para mais informaçoes da disciplina, acesse "disciplinas/<sigla_da_disciplina>.txt"')
 
 else:

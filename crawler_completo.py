@@ -20,10 +20,13 @@ def getTodasAsSiglasPoli():
         if i % 4 == 0:
             siglas_filtradas.append(siglas[i])
 
+
     return siglas_filtradas
 
 
-
 todas_as_siglas = getTodasAsSiglasPoli()
+
 for i in range(0, len(todas_as_siglas)):
+    #130 equivale a média das aulas de 100 minutos com as de 160 minutos
+    #aulas normais + aulas lab / 2
     getDisciplina(todas_as_siglas[i], 130)
