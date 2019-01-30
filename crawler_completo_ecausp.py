@@ -5,31 +5,32 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-wb = xlsxwriter.Workbook('faltas_disciplina.xlsx')
+wb = xlsxwriter.Workbook('faltas_disciplina_ecausp.xlsx')
 ws = wb.add_worksheet()
 
 row = 0
 col = 0
 
 def getTodasAsSiglasPoli():
-    url = "https://uspdigital.usp.br/jupiterweb/jupDisciplinaLista?codcg=3&letra=A-Z&tipo=D"
+    url = "http://www3.eca.usp.br/ctr/disciplinas"
     dados = requests.get(url)
     texto = dados.text
     soup = BeautifulSoup(texto, features="html.parser")
     contador = 0
     siglas = []
-    for span in soup.findAll('span', {'class': 'txt_arial_8pt_gray'}):
-        if contador % 4 == 0:
-            sigla = str(span.string)
-            siglas.append(sigla[-7:])
+    for a in soup.findAll('a', {'title': 'no Júpiter'}):
+        nome_materia = str(a.string)
+        print(nome_materia[1:8])
+        sigla_materia = nome_materia[1:8]
+        siglas.append(sigla_materia)
+
     
-    siglas_filtradas = []
-    for i in range(0, len(siglas)):
-        if i % 4 == 0:
-            siglas_filtradas.append(siglas[i])
+    print('LEN DE SIGLAS')
+    print(len(siglas))
+    print(siglas)
 
 
-    return siglas_filtradas
+    return siglas
 
 faltas = []
 todas_as_siglas = getTodasAsSiglasPoli()
@@ -41,7 +42,6 @@ for i in range(0, len(todas_as_siglas)):
     ws.write(row, col + 1, falta)
 
     row += 1
-    
 
 wb.close()
 

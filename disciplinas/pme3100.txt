@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia Mecânica
+
+Disciplina: PME3100 - Mecânica I
+
+Em ingles 
+         Mechanics I 
+
+Credito Aula 
+        6
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		90 h 
+ 			
+			 
+
+Objetivo 
+        Revisar conceitos de mecânica clássica e desenvolver a compreensão da mecânica de corpos rígidos, com ênfase na cinemática e dinâmica de corpos rígidos.
+
+ Voce pode faltar: 9

@@ -1,0 +1,27 @@
+
+Instituto 
+	    Escola Politécnica
+
+Curso 
+	    Engenharia de Comp e Sist Digitais
+
+Disciplina: PCS3110 - Algoritmos e Estruturas de Dados para Engenharia Elétrica
+
+Em ingles 
+         Algorithms and Data Structures for Electrical Engineering 
+
+Credito Aula 
+        4
+
+Creditos Trabalho 
+        0
+
+Carga Horaria Total 
+       		60 h 
+ 			
+			 
+
+Objetivo 
+        Fornecer ao aluno capacidade de construção e análise de algoritmos e de estruturas básicas de dados (representação, construção e manipulação). Utilizar exemplos de aplicações e avaliações de uso destas técnicas na resolução por computador de problemas que são relevantes para a Engenharia Elétrica.
+
+ Voce pode faltar: 9

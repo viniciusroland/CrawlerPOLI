@@ -1,7 +1,29 @@
 from bs4 import BeautifulSoup
+import xlsxwriter
 import requests
 import json
 
+wb = xlsxwriter.Workbook('faltas_disciplina.xlsx')
+ws = wb.add_worksheet()
+
+row = 0
+col = 0
+
+def escreverExcel(sigla, falta, r, c):
+    global ws
+    siglas_e_faltas = (
+        [sigla, falta],
+    )
+    for sigla, falta in siglas_e_faltas:
+        ws.write(r, c, sigla)
+        ws.write(r, c + 1, falta)
+
+        r += 1
+    
+    wb.close()
+
+
+    
 
 def getDisciplina(sigla, minutos_de_aula):
     dicionario = {}
@@ -16,8 +38,10 @@ def getDisciplina(sigla, minutos_de_aula):
             return None
 
     texto = dados.text
+
     #lib que varre o source-code da pagina e pega as infos
     soup = BeautifulSoup(texto, features="html.parser")
+
     contador = 0
     for span in soup.findAll('span', {'class' : 'txt_arial_10pt_black'}):
         if contador == 2:
@@ -31,7 +55,7 @@ def getDisciplina(sigla, minutos_de_aula):
     contador = 0
     dicionario['creditos'] = {}
     for span in soup.findAll('span', {'class' : 'txt_arial_8pt_gray'}):
-            if contador < 3:
+        if contador < 3:
             textcontent = span.string
             dicionario['creditos'][creditos[contador]] = str(textcontent).rstrip('\r\n\t')
         if contador == 5:
@@ -43,7 +67,7 @@ def getDisciplina(sigla, minutos_de_aula):
 
     
     #salvando arquivo com as informações num .txt na pasta disciplinas
-    arquivo = open("disciplinas/" + sigla + ".txt", "w+")
+    arquivo = open("disciplinas_ecausp/" + sigla + ".txt", "w+")
 
     for key in dicionario:
         if key == 'creditos':
@@ -60,6 +84,7 @@ def getDisciplina(sigla, minutos_de_aula):
     carga_ = []
     try:
         carga_horaria_total = str(dicionario['creditos']['Carga Horaria Total'])
+        print(carga_horaria_total)
     except:
         pass
     for i in carga_horaria_total:
@@ -68,7 +93,14 @@ def getDisciplina(sigla, minutos_de_aula):
         except:
             pass
 
-    carga_total = 10 * carga_[0] + carga_[1]
+    print(carga_)
+
+    if len(carga_) == 2:
+        carga_total = 10 * carga_[0] + carga_[1]
+    else:
+        carga_total = 100 * carga_[0] + 10 * carga_[1] + carga_[2]
+
+    print(carga_total)
     numero_de_aulas = carga_total * 60 / int(minutos_de_aula)
     #calculando 30% de falta que pode ter
     faltas = numero_de_aulas * 0.3
@@ -81,6 +113,7 @@ minutos_de_aula = input("Digite a duracao da aula em minutos: ")
 
 
 faltas = getDisciplina(sigla, minutos_de_aula)
+escreverExcel(sigla, faltas, row, col)
 if faltas != None:
 
     #tirando 1 das faltas só pra ficar safe :)
